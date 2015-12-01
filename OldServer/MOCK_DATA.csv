@@ -1,0 +1,1001 @@
+id_guide,name_desp,dir_derp,name_rec,dir_rec,date,heigth,presio,city_desp,city_rec,consecutivo,n1,n2,n3,n4
+1,Rose Black,49 Laurel Trail,Aaron Diaz,70389 Bayside Pass,1/18/2014,45.709,$13314.20,Wisconsin,North Dakota,6084070,24830,26993,67047,45170
+2,Albert Webb,27470 Lunder Alley,Justin Powell,82454 Burning Wood Crossing,2/16/2014,55.251,$45260.52,North Carolina,Illinois,2821759,26939,37200,86337,72721
+3,Alan Anderson,581 Westridge Pass,Heather Weaver,7705 Forster Plaza,11/7/2013,65.72,$84014.34,South Carolina,Tennessee,3345326,40821,34025,34878,54504
+4,Nancy Little,01 Corscot Trail,Arthur Freeman,849 Drewry Crossing,4/6/2014,78.069,$54574.22,Montana,Tennessee,3551692,73199,46947,74672,98885
+5,Judith Cole,5 Menomonie Terrace,Sandra Mills,40377 Darwin Junction,12/30/2013,74.686,$19989.97,Texas,Arizona,8218579,42577,71970,6083,50922
+6,Evelyn Garcia,2 Dahle Parkway,Kenneth Jacobs,5477 Fulton Street,2/23/2014,19.02,$67822.04,New Hampshire,Louisiana,5059306,9279,95037,95943,76047
+7,Billy Perry,66943 David Place,Lisa Martinez,33129 Troy Court,4/14/2014,50.934,$88443.49,Hawaii,Illinois,9322252,23892,21664,72720,32831
+8,Timothy Ellis,991 Lerdahl Trail,Barbara Murphy,2 Scofield Court,2/10/2014,82.065,$36997.67,New Mexico,Florida,387629,8496,56006,78440,67519
+9,Nicholas Kelley,4639 Luster Place,Rose Henry,4 Memorial Avenue,5/10/2014,45.738,$7186.59,Colorado,New Jersey,6522987,66319,63002,41764,76937
+10,Joseph Day,85 Hooker Place,Carlos Sims,9 Arizona Crossing,5/18/2014,96.148,$44830.08,North Carolina,Mississippi,391132,76452,3754,45263,26574
+11,Juan Butler,500 Badeau Circle,Tina Campbell,30 Algoma Drive,4/10/2014,88.603,$11886.11,Nebraska,Hawaii,4578444,21917,91951,36571,4917
+12,Virginia King,86 Lerdahl Terrace,Ann Stanley,3 American Hill,7/16/2014,26.958,$97880.72,Arizona,Wisconsin,4960295,63253,4038,29963,22477
+13,Alan Duncan,7 Brentwood Way,Linda Berry,78577 Mesta Court,10/10/2013,51.332,$80905.17,Oklahoma,New Mexico,2875909,12452,49965,35077,16935
+14,Tina Mills,4395 Westend Lane,Dennis Daniels,262 Delladonna Crossing,7/4/2014,17.776,$68737.07,Vermont,Illinois,8094418,46963,1069,27086,46791
+15,Brenda Powell,265 Moose Court,Carlos Bennett,77727 Graceland Point,11/25/2013,85.072,$38724.53,Kentucky,Massachusetts,1912612,44752,99568,74923,63447
+16,Bonnie Kim,3436 Mandrake Drive,Deborah Hunt,2313 Pearson Park,7/27/2014,55.295,$81061.88,Kentucky,New Jersey,5477550,53964,19886,77034,78477
+17,Brenda Henry,53 Judy Circle,Patricia Ross,9199 Park Meadow Crossing,1/10/2014,76.735,$69005.88,Maine,Wisconsin,1630096,12888,74101,82376,20153
+18,Julia Bennett,7218 Gulseth Road,Janice Hart,427 Autumn Leaf Road,6/4/2014,56.227,$87623.30,Nevada,Georgia,8729979,85293,49020,80022,6272
+19,Joshua Ellis,86 Old Gate Plaza,Howard Rogers,8549 Sunbrook Way,2/2/2014,59.772,$86817.63,Hawaii,Connecticut,848441,35591,67618,83553,61065
+20,Susan Palmer,6129 Lindbergh Plaza,Nicholas Mitchell,62 Rieder Plaza,10/25/2013,2.653,$59486.63,Ohio,Alabama,5338971,68185,9434,98774,3126
+21,Marilyn Franklin,68692 Blackbird Court,Sara Ruiz,71 Lakewood Pass,7/12/2014,86.258,$35329.73,Nevada,Michigan,7274192,28360,72819,95451,50675
+22,Peter Rodriguez,7 Bashford Plaza,Jimmy Ray,19 Rowland Terrace,8/14/2013,3.0,$85199.77,Kentucky,Wisconsin,4009343,35263,37088,48081,89977
+23,Ruby Montgomery,35108 Pleasure Street,Andrew Harris,46 Sutteridge Drive,8/4/2013,24.27,$44593.51,Vermont,Hawaii,4411323,49891,26630,2182,15938
+24,Anne Watson,86 Grim Avenue,Marie Mccoy,8840 Eastlawn Lane,10/22/2013,0.156,$70865.96,New York,Alaska,1442241,8186,10098,46543,88667
+25,Carolyn Vasquez,50 Quincy Pass,Julie Stone,6 Hanson Circle,12/11/2013,82.414,$54223.68,Michigan,Delaware,4544337,58058,4603,78973,49114
+26,Thomas Stephens,66870 Nancy Circle,Barbara Turner,75 Stone Corner Center,8/8/2014,1.409,$86608.14,Kentucky,Vermont,2376471,24011,72209,37506,44598
+27,Teresa Gardner,405 Towne Point,Susan Harper,32328 Hallows Trail,1/26/2014,75.398,$19498.52,Kentucky,Oklahoma,1434694,87306,1447,40980,73210
+28,Ernest Palmer,28 Thackeray Junction,Mary Wilson,771 Scoville Point,2/20/2014,84.186,$40274.62,Washington,Alabama,4481289,16365,26091,1999,79312
+29,Norma Austin,1 Roth Trail,Ashley Mccoy,0391 Corben Trail,12/7/2013,24.763,$54494.19,Arizona,Texas,9587881,60487,96089,43605,82166
+30,Mark Jackson,18 Michigan Circle,Thomas White,58 Derek Drive,4/27/2014,50.234,$91756.41,Tennessee,Minnesota,8560657,92013,67470,81137,57455
+31,Benjamin Coleman,4584 Springview Drive,Judy Sims,46 Barnett Point,10/7/2013,54.586,$54317.84,Georgia,Maine,8140763,46260,66759,20649,15436
+32,Robert Lewis,65848 Dexter Junction,Ann Stone,185 Reinke Street,7/10/2014,71.932,$12726.79,Kentucky,Idaho,772285,43134,82743,40278,60383
+33,Theresa Harvey,0367 Briar Crest Point,Amy Gardner,3 Stephen Park,7/29/2014,43.241,$69562.69,Wisconsin,Illinois,1219488,49929,15976,85056,70297
+34,Carolyn Ross,05 Hallows Street,Andrew Greene,95679 Golden Leaf Center,10/21/2013,75.591,$12481.78,Alabama,California,4292663,45617,37320,64253,66186
+35,Jacqueline Kelley,506 Cherokee Park,Patricia Sims,24 Manitowish Avenue,10/15/2013,50.888,$94302.10,Rhode Island,Georgia,6812749,95525,68222,50090,9945
+36,Timothy Sullivan,56 Summer Ridge Alley,Heather Diaz,154 Darwin Road,10/2/2013,5.471,$76660.06,North Dakota,New Jersey,8565974,34375,56057,78672,9591
+37,Susan Ward,9102 Cherokee Center,Diane Stephens,9107 Springview Drive,8/5/2014,97.045,$69307.37,Mississippi,North Carolina,6944411,54954,98456,38402,16088
+38,Gregory Payne,3727 Mallory Trail,Terry Alexander,876 Pawling Lane,6/1/2014,13.146,$80836.10,Maryland,Washington,661890,72935,65442,26896,26523
+39,Dennis Allen,92 Norway Maple Park,Cheryl Coleman,0 Mitchell Hill,9/23/2013,62.306,$23101.37,Wisconsin,Montana,9595298,79823,33177,79754,48460
+40,Russell Baker,5923 West Pass,Keith Dixon,93 Artisan Street,1/28/2014,38.695,$13407.48,Mississippi,Montana,3397256,89571,37365,8557,69666
+41,Irene Arnold,118 Division Lane,Tina Brooks,39 Dovetail Crossing,1/21/2014,86.734,$33477.97,Oklahoma,South Carolina,9936023,52791,10814,29733,41238
+42,Dorothy Little,60075 Armistice Place,Lawrence Bennett,0089 Randy Crossing,7/20/2014,61.892,$66584.72,Montana,New Jersey,985357,49391,12002,7055,93952
+43,Dennis Moore,0142 Luster Lane,Irene Mason,50 Steensland Court,8/5/2013,72.834,$67498.42,Arkansas,Oregon,475974,99660,81885,18388,16752
+44,Benjamin Gonzales,278 Eggendart Trail,Rebecca Dunn,2 Ronald Regan Avenue,2/2/2014,73.647,$93603.57,Arizona,Iowa,3108452,82638,55199,89274,71827
+45,Jeremy Graham,77787 Prairieview Drive,Ralph Jacobs,3 Meadow Ridge Terrace,6/8/2014,94.655,$15192.63,Louisiana,Oregon,7849399,43178,80096,67385,37148
+46,Charles Ruiz,3070 Pierstorff Junction,Cheryl Holmes,86 Orin Park,3/11/2014,93.513,$47702.22,Hawaii,Alabama,7494585,72194,84341,61266,54437
+47,Frances Kennedy,93 Westerfield Park,Louis Nichols,27624 Forest Junction,12/18/2013,52.374,$16446.70,Oklahoma,North Dakota,1138038,80630,25105,13397,10543
+48,Julie Powell,9218 Sachs Drive,Marie Rice,2 Calypso Plaza,10/22/2013,93.383,$60017.54,Kentucky,Tennessee,9460516,32028,1714,90173,49965
+49,Charles Washington,2 Packers Place,Wayne Berry,88470 Del Sol Parkway,1/24/2014,19.756,$70956.53,Rhode Island,Louisiana,2167816,53410,36260,75758,21697
+50,Brandon Moore,5 Anderson Circle,Roy Frazier,9324 Manufacturers Center,6/11/2014,18.26,$86607.42,Kansas,Nebraska,9115687,71274,79619,32149,10591
+51,Tina Spencer,58454 Esker Pass,Phyllis Coleman,24 Blaine Pass,11/14/2013,76.354,$64685.00,Michigan,Idaho,3930986,5411,68948,3729,52346
+52,Aaron James,1338 Monterey Point,Shirley Roberts,4 Main Lane,2/8/2014,54.668,$11840.38,Illinois,Wisconsin,5659027,74442,93210,954,52578
+53,Benjamin Matthews,27 Blaine Court,Mildred Austin,1663 Lerdahl Junction,8/11/2013,9.094,$56507.96,Arizona,Indiana,3445219,44884,63956,14590,66657
+54,Janet Rodriguez,12 Lakeland Trail,Kathleen Cunningham,371 Walton Alley,1/15/2014,39.347,$6660.18,Kansas,Rhode Island,4488465,81189,94547,9404,91529
+55,Jimmy Hughes,48210 Rieder Junction,Steven Stone,04 Towne Place,5/6/2014,65.278,$93639.21,Idaho,Maine,7193255,17476,95919,8615,53991
+56,Wanda Bradley,03140 Quincy Street,Ronald Gardner,469 Melvin Street,8/10/2014,40.143,$94692.29,California,Mississippi,6202063,88156,93907,91654,56742
+57,Timothy Johnston,1093 Waxwing Avenue,Richard Watson,51 Meadow Valley Pass,6/14/2014,23.129,$62772.58,Kansas,Nevada,643033,46011,45714,68490,45455
+58,Jane Gardner,3 Del Mar Lane,Ryan Franklin,41323 Merrick Place,11/2/2013,99.095,$86505.44,Connecticut,Rhode Island,8910751,98242,73074,2121,80963
+59,Judy Lane,651 Stuart Avenue,Aaron Armstrong,15 Summer Ridge Hill,7/30/2014,82.615,$8143.90,Iowa,Montana,9289676,97570,68083,90303,53640
+60,Elizabeth Parker,3288 Larry Hill,William Gordon,9056 Express Avenue,11/12/2013,19.92,$77853.55,Nebraska,Washington,5119875,32339,36451,33304,92560
+61,Louis Mendoza,91 Clyde Gallagher Alley,Diana Rogers,35 Clemons Crossing,9/14/2013,67.605,$72625.21,Nebraska,Arizona,9006280,74797,48299,80422,60017
+62,Jeffrey Hernandez,8322 Pearson Point,Paula Barnes,6002 Aberg Parkway,1/30/2014,42.513,$60006.99,Indiana,Mississippi,1254922,36932,20866,51193,57974
+63,Chris Gomez,34 Starling Terrace,Sara Lewis,01 Northfield Center,12/26/2013,19.389,$52331.86,Rhode Island,Minnesota,6465512,66169,72848,58347,14123
+64,Louise Thompson,0 Scott Terrace,Brenda Morris,80780 Annamark Alley,2/20/2014,57.461,$901.34,Wisconsin,Maine,9756608,71015,23772,45286,89775
+65,Juan Richardson,05 Leroy Drive,Sean Patterson,797 Mallard Road,5/2/2014,52.06,$57689.83,Rhode Island,Delaware,8367879,80872,87893,57048,99093
+66,Christina Boyd,0901 Nova Road,Peter Kelley,00761 Judy Plaza,12/3/2013,36.124,$9220.81,North Dakota,Louisiana,6197387,40220,48370,46263,86388
+67,Pamela White,9 Calypso Pass,Anne King,45 Northridge Park,3/5/2014,32.312,$82205.77,Minnesota,Massachusetts,6569454,29895,33681,51403,56765
+68,Andrea Morris,9 Rowland Crossing,Jeffrey Thompson,02 Old Gate Plaza,10/10/2013,15.514,$41761.53,Ohio,Indiana,6296940,99166,38430,79496,69687
+69,Phillip Young,93141 Boyd Parkway,Tina Hunter,06704 Goodland Park,1/1/2014,79.418,$56529.28,Louisiana,Kansas,606494,84244,93178,55717,93918
+70,William Cole,66 Pearson Terrace,Diane Baker,739 Dahle Parkway,2/25/2014,96.309,$5051.69,Texas,Pennsylvania,2778749,32112,39358,62789,46499
+71,Roy Sanchez,94447 Iowa Alley,Ryan Webb,3 Monterey Plaza,8/7/2013,66.6,$66462.22,Louisiana,Arkansas,716096,25352,86787,6334,19427
+72,Jerry Jordan,53473 Katie Point,Debra Duncan,37389 Milwaukee Street,6/25/2014,74.004,$5997.48,South Dakota,Utah,8405939,53342,86911,74846,70209
+73,Antonio Howard,885 Alpine Plaza,Samuel Hall,971 Mendota Terrace,11/7/2013,76.42,$40764.64,Delaware,Missouri,7165474,68552,59994,79889,47061
+74,Ann Powell,31 Hanover Street,Jane Woods,3 Hazelcrest Trail,1/30/2014,47.323,$86002.27,Idaho,Maryland,2837945,64445,4069,17479,55879
+75,Scott Stephens,11572 Boyd Pass,Rebecca Torres,9 Declaration Hill,8/18/2013,95.061,$3132.14,Georgia,Virginia,6663590,22846,26723,9446,27799
+76,Theresa Wilson,8 Johnson Trail,Robin Bryant,53 Katie Lane,11/23/2013,86.997,$14920.62,Michigan,Connecticut,5730352,99434,27784,4692,88464
+77,Christine Myers,34 Novick Way,Stephanie Fox,2483 Dunning Way,5/24/2014,8.871,$43857.66,Oregon,Idaho,7953352,45817,71279,99641,22685
+78,Kenneth Bell,575 Southridge Hill,Diane Ruiz,4912 School Way,7/4/2014,14.229,$33173.07,Alabama,South Carolina,6807713,91895,58242,62850,46415
+79,Christopher Foster,14838 Dryden Park,Anthony Coleman,76 Quincy Place,10/3/2013,26.364,$4151.28,North Dakota,Minnesota,9929886,85323,67839,13376,34678
+80,Jacqueline Smith,6 Derek Pass,Linda George,7 Maple Trail,3/20/2014,51.184,$36869.23,Utah,Michigan,8280099,10596,8933,86977,83578
+81,Evelyn Butler,19 Susan Street,Alice Schmidt,97 Farwell Street,7/23/2014,67.9,$12431.30,Rhode Island,Missouri,5524524,78622,15674,47908,38914
+82,Shirley Woods,53529 Kenwood Place,Christine Watkins,73705 Dakota Place,4/23/2014,37.156,$88004.65,Montana,Mississippi,8988107,28146,20014,1567,44137
+83,Russell Wallace,9497 Pine View Court,Martin Gonzales,23246 Gateway Center,6/21/2014,64.952,$81825.85,Massachusetts,Texas,9999652,229,59674,4807,29676
+84,Irene Holmes,5 Summit Park,Eugene Rivera,12690 Laurel Point,9/6/2013,83.238,$884.77,Florida,Louisiana,2472791,12011,77135,75930,35002
+85,Wayne White,6 Crowley Court,Kimberly Harvey,17520 Bonner Alley,3/18/2014,47.738,$28941.45,North Carolina,Wisconsin,1689167,15568,38255,90816,78666
+86,Albert Wagner,5858 Kings Way,Ryan Reyes,83 Blaine Avenue,4/6/2014,62.024,$5409.55,Nevada,New Mexico,2712183,17508,3418,54513,16514
+87,Paul Morgan,0404 Morningstar Junction,Terry Simmons,687 Evergreen Drive,11/30/2013,33.532,$7494.42,Delaware,New Hampshire,9546262,75090,29747,17498,3611
+88,Amanda Fowler,35 Logan Street,Jane Johnston,217 Buena Vista Avenue,2/22/2014,39.072,$37274.10,Nebraska,Connecticut,4677830,91157,27732,51006,46283
+89,Ronald Lopez,19 Dahle Terrace,Rebecca Bryant,5124 Dakota Avenue,9/6/2013,64.375,$70507.71,Pennsylvania,Oregon,8550357,93369,74804,43349,75855
+90,Jeffrey Hall,9678 Cherokee Terrace,Paula Sanders,40546 Katie Park,12/19/2013,58.276,$27565.96,Missouri,Idaho,6659612,48478,78525,72346,84707
+91,Tina Shaw,48 Sunfield Plaza,Joseph Dixon,08191 Buena Vista Street,3/22/2014,27.316,$40369.22,Vermont,Pennsylvania,3920398,89638,22118,39974,70049
+92,Edward Lewis,5 Tony Crossing,Mildred Fox,15609 Atwood Junction,2/5/2014,9.551,$61310.44,Missouri,Missouri,8036573,91402,77679,33565,38663
+93,Rose Morris,14704 Troy Center,Eugene Garcia,7 Shelley Court,11/14/2013,6.193,$20023.73,Maine,Kansas,9069038,88594,61730,5863,45428
+94,Brian Grant,83 Ohio Parkway,Ronald Freeman,56 Bay Circle,3/24/2014,76.997,$58165.37,Oklahoma,Mississippi,659756,61180,40231,806,48340
+95,Keith Kelly,114 Rowland Road,Gerald Ford,40399 Crownhardt Drive,8/3/2013,43.14,$70656.12,New Mexico,New Hampshire,7300902,77536,33649,28765,25746
+96,Debra Cunningham,80 Old Shore Terrace,Jack Sanders,853 Doe Crossing Avenue,1/9/2014,58.034,$10794.40,Nevada,Oklahoma,4151777,90082,30570,55211,50052
+97,Howard Day,83844 Hoffman Alley,Bruce Brown,54221 Loomis Plaza,8/8/2013,13.124,$80152.51,Tennessee,Indiana,6927361,97056,69580,82212,11780
+98,Ryan Watson,974 Clyde Gallagher Terrace,Martha Davis,3437 Arapahoe Trail,8/5/2013,24.016,$65036.27,Maryland,Georgia,910356,38340,50636,30212,64223
+99,Frances Watson,25523 Pawling Street,Charles Cooper,61 Pleasure Center,8/6/2013,35.946,$8844.54,Minnesota,Arkansas,7556535,88155,64242,53151,62739
+100,Lois Hicks,2204 Messerschmidt Avenue,Martha Reyes,0455 Scott Terrace,7/19/2014,46.419,$42722.79,South Dakota,Arizona,8356413,74660,50563,62825,34961
+101,Gerald Cole,34 Evergreen Alley,George Frazier,5605 Sunnyside Plaza,6/1/2014,4.252,$42448.96,Kansas,New Jersey,5797831,7780,95373,97530,75904
+102,Alice Wagner,30394 Jenifer Point,Jesse Mitchell,05 Prairie Rose Road,4/16/2014,23.69,$8121.50,Ohio,Utah,2470297,43586,9436,63875,94939
+103,Brian Richards,90621 Northfield Circle,Stephen Sanchez,205 Spaight Road,1/26/2014,41.786,$70651.73,Rhode Island,New Jersey,6554756,76439,53321,38326,40901
+104,Anne Schmidt,418 Algoma Parkway,Laura Hunter,65 Scofield Road,1/16/2014,43.209,$46922.95,Vermont,Vermont,7400093,21496,63120,31563,27355
+105,Carolyn Berry,9 Corben Drive,Willie Nichols,3 Northport Parkway,1/10/2014,75.323,$14038.88,Arkansas,New Mexico,3834115,65265,73958,56210,95624
+106,Henry Lopez,44 Derek Avenue,Jean Martin,797 Swallow Terrace,3/30/2014,51.475,$83997.22,Pennsylvania,Delaware,6150702,69515,79871,66195,20518
+107,Theresa Garrett,93 Troy Parkway,Evelyn Richardson,7 Goodland Circle,10/24/2013,42.236,$86771.27,Maine,California,5002979,40757,93900,84310,37103
+108,Robert Baker,5 Dovetail Trail,Joan Olson,08 Dennis Park,1/9/2014,58.508,$23321.99,Maryland,Hawaii,1637480,42127,44259,70755,22465
+109,Kathleen Duncan,2959 Judy Street,Adam Harrison,45605 Stang Avenue,8/17/2013,0.489,$94770.39,Pennsylvania,Oregon,1914667,33762,46196,94006,7710
+110,Doris Sullivan,0 Del Sol Point,Edward Burke,569 Goodland Road,3/21/2014,57.39,$48248.76,Vermont,Ohio,2308197,35522,33603,65344,5869
+111,Samuel Hughes,07731 Grasskamp Hill,Janet Wells,823 Talmadge Parkway,7/27/2014,78.161,$21334.99,New York,New Hampshire,3786630,98761,7391,87107,99504
+112,Elizabeth Lawrence,65136 Maple Wood Street,Diane Johnston,98 Dorton Road,2/7/2014,10.417,$13060.23,South Carolina,Missouri,9889278,93202,41435,6036,13878
+113,Keith Adams,61 Acker Drive,Kevin Henderson,70100 Sauthoff Avenue,6/27/2014,46.872,$14446.34,Nebraska,Nebraska,760908,72479,89342,24606,46846
+114,Tina Weaver,9311 Anhalt Hill,Deborah Parker,827 Redwing Pass,7/17/2014,79.162,$68141.97,South Carolina,Missouri,9247533,60213,35675,20207,91981
+115,David Chavez,44 Melrose Circle,Henry Gonzalez,8474 Troy Crossing,4/4/2014,37.828,$1681.67,Vermont,Arkansas,4632464,33810,8227,93873,16966
+116,Martin Castillo,3 Hansons Circle,Earl Knight,47 Prairie Rose Street,9/8/2013,93.094,$49305.48,Connecticut,Nebraska,7347073,78656,23131,49202,85862
+117,Martha Elliott,971 Menomonie Drive,Christopher Patterson,89 2nd Park,6/23/2014,92.319,$4432.67,Oregon,Virginia,9943761,99294,2558,88120,23366
+118,Cheryl Reed,89057 Dwight Crossing,Brandon Lynch,3847 Novick Drive,2/23/2014,6.755,$21277.55,West Virginia,Nevada,5676570,78428,13697,35409,53299
+119,Emily Owens,6025 Dahle Drive,Justin Lane,81290 Bowman Junction,5/10/2014,34.708,$26814.04,Washington,Utah,8128405,836,69178,11328,31216
+120,Judith Willis,7539 Union Junction,Catherine Carroll,19 Kings Park,4/19/2014,77.174,$59233.41,South Carolina,Montana,5741551,61674,2153,81099,16219
+121,Kathy Rose,5 Mcbride Crossing,Judith Foster,22 Thierer Junction,1/24/2014,31.906,$71924.55,Alaska,Hawaii,1944095,94819,85145,19236,50146
+122,Terry Richardson,33807 Drewry Point,Larry Barnes,68489 Butterfield Crossing,11/2/2013,38.79,$97475.88,New Hampshire,Arkansas,1301527,13343,69923,79392,96757
+123,Ernest Brown,72782 Lake View Terrace,Patricia Holmes,2 Maple Wood Drive,3/11/2014,85.449,$35778.37,Delaware,Colorado,1172264,91567,30712,44060,83356
+124,James Gilbert,1661 Lillian Alley,Bobby Hicks,46 Calypso Trail,6/12/2014,30.269,$84213.57,Wyoming,Rhode Island,6246955,19314,63133,28002,71864
+125,Joseph Simpson,1196 Burning Wood Lane,Jimmy Cole,01137 Texas Street,4/19/2014,47.754,$46548.42,Arizona,West Virginia,4686878,12144,68944,2784,68394
+126,Tina Freeman,2 Boyd Point,James Ferguson,3521 Paget Pass,5/1/2014,8.033,$87916.75,New Jersey,North Dakota,5282392,37712,30652,35722,30957
+127,Debra Dean,4712 Dryden Circle,Steven Hayes,14 Spenser Way,11/18/2013,49.172,$95368.74,Nebraska,Alabama,3078218,44332,91171,27837,73227
+128,Mark Perry,07 Cardinal Crossing,Jean Sullivan,15 Truax Junction,5/2/2014,53.99,$33827.41,Delaware,Kansas,3728439,66401,89705,83662,88863
+129,Virginia Chavez,12 Waxwing Hill,Matthew Oliver,2 Grayhawk Center,11/30/2013,23.823,$38841.59,Louisiana,Massachusetts,9763419,15696,23606,58384,90752
+130,Carl Harvey,3894 Becker Drive,Ruby Graham,79 6th Parkway,4/12/2014,61.816,$99233.15,Texas,Washington,1301074,78448,40518,25088,88998
+131,Tammy Burton,46570 Heath Way,Jean Hayes,41 Eagan Road,11/2/2013,9.333,$93527.91,Wisconsin,Florida,8291273,67472,45332,79425,27884
+132,Gary Morris,2 Waywood Court,Thomas Brooks,17008 Banding Park,9/17/2013,80.496,$26650.09,Georgia,Virginia,6371214,88370,84636,13993,31896
+133,Joan Carr,45 Towne Avenue,Barbara Ward,8 Thierer Road,12/12/2013,81.246,$57290.24,Oklahoma,Alabama,8076001,26845,88299,24149,16837
+134,Todd Crawford,99 Gina Place,Robert Day,11 Drewry Road,7/25/2014,5.253,$892.66,Indiana,Wyoming,5441173,45207,23289,76675,26090
+135,Judith Perez,9994 Leroy Junction,Maria Murphy,67 Warner Terrace,7/5/2014,77.113,$61974.68,New Hampshire,Minnesota,6961214,75925,26619,76868,80338
+136,Mary Clark,1551 Birchwood Terrace,Steve Thompson,12 Continental Circle,12/15/2013,23.388,$50417.18,Michigan,Rhode Island,8745411,9618,75679,23445,39524
+137,Michelle Moore,474 Knutson Avenue,Anne Clark,286 Sycamore Pass,9/11/2013,37.336,$78950.25,Illinois,Virginia,2631362,97476,15975,62613,67448
+138,Karen Price,143 Buell Lane,Denise James,54 Golf View Street,9/18/2013,58.1,$25168.25,Utah,Montana,3148547,17865,99614,63367,15231
+139,Kimberly Brown,2 Stone Corner Point,Gloria Sims,8709 Starling Hill,5/3/2014,52.49,$70769.91,Montana,Connecticut,5164767,52655,99961,15123,55242
+140,Harold Hill,92491 Sundown Avenue,Kathy Andrews,7237 Shelley Trail,1/31/2014,4.057,$6441.66,Arkansas,Louisiana,1680337,87701,91477,85981,41385
+141,Karen Hunt,95 Springs Point,Clarence Davis,4 Brickson Park Terrace,12/12/2013,26.562,$8102.55,North Dakota,Oregon,4289093,24540,59297,16009,47466
+142,Ernest Willis,38223 Arizona Court,Alan Gonzales,81670 Weeping Birch Street,9/11/2013,14.676,$26053.76,Oklahoma,Arizona,5731627,58686,58448,72432,39511
+143,Andrea Carpenter,55 Kenwood Road,Willie Lee,88606 Caliangt Point,2/28/2014,20.141,$32394.92,Connecticut,Alabama,7010446,30472,78155,63911,21012
+144,Antonio Phillips,80971 Hermina Alley,Louise Ray,398 Daystar Road,6/14/2014,25.968,$92790.92,Hawaii,Arizona,8975358,50849,6871,54309,89057
+145,Rose Richards,9560 Tennessee Avenue,Philip Phillips,81 Summerview Point,1/5/2014,75.938,$80851.83,Illinois,Tennessee,921536,4449,83288,44606,17496
+146,Diana Howell,845 Twin Pines Alley,Jacqueline Simmons,62 Crescent Oaks Junction,1/10/2014,23.126,$21270.59,Pennsylvania,New Mexico,9772266,91159,51484,69191,76239
+147,Jacqueline Dixon,0 Garrison Way,Pamela Stewart,587 Brickson Park Park,11/4/2013,54.146,$18954.16,Tennessee,West Virginia,7833828,1115,3011,87675,26800
+148,Victor Harris,47 Texas Court,Carlos Martin,85240 Marcy Terrace,1/24/2014,55.007,$7717.53,Oregon,Maine,7497426,35717,35460,11294,89487
+149,Louise Burke,649 Debra Lane,Jennifer Phillips,5413 Harbort Court,11/1/2013,69.796,$62197.35,Rhode Island,West Virginia,1496671,17066,54056,52604,71713
+150,Frances Burke,9387 Hanover Park,Lillian Austin,2 North Point,2/23/2014,84.066,$57449.53,Delaware,Missouri,3183958,12027,36893,71260,8487
+151,Irene Reyes,243 Sutherland Junction,Eric Dunn,6 Rowland Place,7/18/2014,6.28,$41616.15,Kansas,Oregon,4084556,61971,3451,12753,92438
+152,Marilyn Andrews,1655 Spaight Street,John Reed,185 Bellgrove Point,12/3/2013,13.131,$73660.48,Oklahoma,Florida,6323718,33251,71193,13214,66596
+153,Judith Fisher,966 Florence Drive,Harold Webb,5 Hazelcrest Parkway,7/1/2014,98.18,$48253.33,Texas,Missouri,6985259,85653,60108,16723,74293
+154,Martin Hart,6 Dapin Trail,Martha Lopez,340 Farragut Plaza,8/27/2013,93.593,$62670.21,West Virginia,North Carolina,7063109,91573,49125,59489,74575
+155,Melissa Cole,82497 Hoard Point,Eric Fuller,4084 Debs Junction,12/11/2013,82.013,$75799.11,North Carolina,South Carolina,4790299,87543,77474,82504,7177
+156,Virginia Pierce,87567 La Follette Lane,Lois Meyer,34635 Cody Center,11/17/2013,3.299,$63054.61,South Carolina,Maine,1415753,46448,3586,35695,18148
+157,Gary Hunter,84730 Roth Parkway,Paula Stewart,761 American Ash Street,2/15/2014,19.336,$27504.33,Colorado,Nevada,6371878,23498,54111,53698,88941
+158,Clarence Fields,51 Surrey Drive,Willie Lane,618 Blackbird Hill,7/17/2014,98.178,$51360.18,Colorado,Tennessee,7457638,24209,87264,9693,62506
+159,Norma Gomez,8322 Dovetail Avenue,Heather Brooks,480 Parkside Drive,9/9/2013,36.845,$11350.85,New Jersey,Alaska,7908389,65151,48729,49484,83694
+160,Irene Holmes,130 Sundown Parkway,Craig Welch,7236 Red Cloud Road,3/21/2014,51.52,$47167.61,Wisconsin,South Dakota,2898827,66420,6013,40414,63641
+161,Walter Morales,52 Northport Park,Donna Lane,17 Myrtle Drive,10/20/2013,69.419,$62017.98,Maryland,Texas,3141353,58509,8662,71470,72091
+162,Marilyn Reynolds,159 Kensington Point,Ryan Armstrong,7 Waxwing Terrace,1/4/2014,87.022,$68916.38,Alaska,California,7032604,24898,65271,48540,20530
+163,Clarence Martinez,0 Ramsey Junction,Harold Lopez,9356 Farwell Park,12/6/2013,15.724,$40644.66,Maryland,Pennsylvania,5970704,79665,87073,69971,19356
+164,Albert Jenkins,1732 Grasskamp Pass,Justin Thompson,214 Iowa Way,11/15/2013,34.336,$14958.34,West Virginia,Missouri,8552236,7254,73012,38105,19677
+165,Jason Phillips,5 High Crossing Trail,Jessica Brown,74 Reinke Avenue,2/17/2014,96.303,$9804.59,Nevada,Alabama,1978184,57434,86664,98289,91261
+166,Barbara Black,26755 Manley Way,Jerry Barnes,0 Becker Place,11/12/2013,25.166,$73265.47,Colorado,Vermont,29592,70893,79211,20674,24049
+167,Mary Wagner,39 Springview Lane,Laura Johnston,88801 Ruskin Parkway,3/26/2014,30.145,$88824.21,Kansas,Maryland,7287288,55916,56166,76977,23373
+168,Ernest Lawson,40094 Almo Parkway,Anna Morgan,2 Transport Terrace,9/5/2013,33.225,$42989.54,Colorado,Wyoming,5711286,66277,99349,31573,53939
+169,Brandon Walker,5 Mccormick Pass,Doris Ray,4 Emmet Lane,11/9/2013,82.289,$84590.16,Florida,Pennsylvania,2790660,78737,21487,29603,72073
+170,Andrew Hanson,207 Bultman Road,Raymond Hughes,1 Sherman Alley,5/15/2014,63.17,$18290.21,Delaware,Missouri,5925964,76677,58638,18460,29628
+171,Russell Lynch,07 Westridge Crossing,Phillip Cunningham,6 Sloan Place,9/28/2013,17.829,$20468.38,Wisconsin,Virginia,3204672,47431,58230,35052,67285
+172,Timothy Burke,8827 Marcy Trail,Todd Lynch,736 Fallview Place,6/9/2014,22.157,$15532.77,Wisconsin,Ohio,7430757,64742,66298,69552,236
+173,Samuel Howard,708 Hoard Junction,Rebecca Thomas,77436 Dapin Plaza,1/9/2014,98.547,$587.80,Minnesota,New York,8438163,76808,23327,17891,2840
+174,Todd Hawkins,63 Manitowish Place,Jesse Cruz,1611 Canary Pass,6/7/2014,70.926,$83903.12,North Dakota,New York,4282912,1472,54160,66033,29566
+175,Margaret Garza,5 Schmedeman Road,Mildred Cooper,8 Thierer Circle,12/4/2013,69.693,$2188.88,West Virginia,Kansas,8258110,14840,56636,24077,98601
+176,Albert Fields,23 Morningstar Parkway,Evelyn Austin,71116 Mockingbird Court,10/23/2013,23.263,$25051.08,Wyoming,Missouri,2989922,90982,92863,48874,1748
+177,Carolyn Ford,99 Dixon Crossing,Kathryn Pierce,79422 Anhalt Junction,9/12/2013,29.594,$98634.02,Pennsylvania,New Hampshire,844053,44855,14426,94759,12215
+178,Randy Cruz,17 Lukken Road,Julia Thomas,1 Grayhawk Trail,3/30/2014,84.207,$46648.76,Delaware,Connecticut,485464,79367,9538,75416,66355
+179,Gloria Johnston,98 Grover Parkway,Richard Butler,933 Briar Crest Alley,8/5/2014,54.99,$832.53,Minnesota,Virginia,4965679,16190,56451,9021,68408
+180,Teresa Russell,29971 Bonner Park,Doris Diaz,6 Fallview Road,1/13/2014,54.827,$74951.46,California,Ohio,3641515,14908,42097,35341,68227
+181,Juan Shaw,6 Laurel Alley,Sara Rose,29657 Southridge Plaza,3/2/2014,29.409,$65415.10,Alaska,New Mexico,1842146,19324,4713,2394,87293
+182,Laura Walker,345 Lotheville Road,Melissa Hawkins,6 Forster Hill,11/10/2013,6.279,$86001.80,New York,Connecticut,6533932,70452,83307,70579,90552
+183,Phyllis Dunn,5 Cascade Way,Amy Sanchez,25847 Schmedeman Lane,10/10/2013,62.813,$74261.59,Maine,Colorado,2812992,45268,35569,56406,67775
+184,Ryan Lynch,44811 Thompson Place,Pamela Patterson,89719 Lindbergh Drive,4/9/2014,49.114,$82257.77,Iowa,Maine,1822762,62683,37227,72200,19553
+185,Anna Bryant,21 Ronald Regan Trail,Karen Ford,6657 Dryden Alley,6/27/2014,31.65,$55210.74,California,South Carolina,6524238,52272,92131,36093,70049
+186,Edward Baker,83306 American Ash Crossing,Denise Ray,54469 Luster Street,11/8/2013,60.331,$98405.73,New York,Nevada,9074826,89576,62191,18558,93810
+187,Jerry James,3374 Bultman Junction,Kenneth Schmidt,43550 Schmedeman Street,12/27/2013,65.673,$91786.44,North Dakota,Virginia,17985,31796,58964,53564,60581
+188,Nancy Vasquez,71137 Summit Junction,Edward Young,48 Merrick Road,2/18/2014,31.843,$56072.48,California,Virginia,9809825,24103,22646,26086,7523
+189,Larry Ross,7 Valley Edge Hill,Carolyn Sanders,085 Jenifer Circle,9/30/2013,3.906,$55732.44,Pennsylvania,North Carolina,5804146,87525,49628,71539,34348
+190,Harold Chapman,06998 Larry Park,Lori Reynolds,560 Schlimgen Center,12/5/2013,73.022,$57432.35,Arizona,Alaska,9838650,21887,70390,80622,37004
+191,Jacqueline Riley,1 Independence Parkway,Lori Taylor,940 Mallory Terrace,1/6/2014,20.342,$82225.28,South Carolina,South Carolina,5512118,84155,38445,41215,90839
+192,Raymond Flores,253 Dunning Pass,Kelly Porter,6 Wayridge Crossing,8/12/2014,84.244,$24437.52,Oregon,North Carolina,1977765,74722,82674,63784,16335
+193,Amy Coleman,443 Westerfield Lane,Gregory Peters,4945 Dapin Crossing,1/15/2014,48.628,$91635.83,Florida,Texas,4040435,20917,3185,11069,91130
+194,Amy Hernandez,489 Mariners Cove Drive,Phyllis Patterson,009 Mayer Avenue,3/20/2014,71.314,$36002.25,New Jersey,Texas,3194096,10665,19302,88507,8956
+195,John Mitchell,064 Green Ridge Avenue,Donna James,3 Trailsway Circle,12/8/2013,41.597,$86413.60,Florida,Delaware,790677,42828,19161,56228,3759
+196,Arthur Pierce,5539 Corben Parkway,Theresa Fernandez,6028 Marquette Alley,12/21/2013,16.602,$5980.08,Georgia,North Carolina,9462155,64620,41618,55725,99930
+197,Doris Henry,2 Ridgeview Street,Ruth Riley,5881 Fieldstone Circle,10/6/2013,19.842,$59245.24,Colorado,South Carolina,92814,76584,83758,58878,99717
+198,Paul Hernandez,995 Merry Way,Patrick Stone,3574 Randy Park,11/28/2013,39.258,$37416.77,Maryland,Maine,7823281,3319,61736,91097,85304
+199,Carol Simmons,701 Walton Plaza,Eric Fisher,11427 Johnson Plaza,1/28/2014,75.582,$91721.73,Idaho,Maine,1434711,9226,83314,92599,36738
+200,Tammy Chapman,15362 Rutledge Court,Craig Simpson,6936 Drewry Court,2/1/2014,56.443,$12738.90,Kentucky,Tennessee,5269115,22917,73941,83601,4338
+201,Mark Hamilton,78008 Chinook Circle,Joe Fernandez,5 Spenser Terrace,12/4/2013,86.027,$82316.75,Louisiana,Utah,2165653,37618,34651,61238,6052
+202,Gerald Nichols,683 Farragut Court,Peter Ramirez,418 Veith Alley,7/23/2014,23.039,$16057.75,North Dakota,Arkansas,1117989,39577,63012,20696,70717
+203,Joe Moreno,17951 Tennessee Place,William Warren,402 Myrtle Trail,6/17/2014,14.29,$15002.98,Delaware,Kansas,4870563,92086,26332,91610,93650
+204,Kevin Stanley,413 4th Place,Juan Dixon,95310 Sachtjen Road,5/1/2014,47.118,$34243.32,Kansas,Rhode Island,5798362,40044,96507,74409,64054
+205,Pamela Murphy,4785 Dakota Lane,Gloria Fields,21 Maywood Circle,1/2/2014,9.887,$36736.16,Michigan,Arkansas,9868360,3189,86077,58882,32303
+206,Christine Banks,085 Blue Bill Park Court,Lori Ray,5 Green Ridge Terrace,8/26/2013,97.265,$77176.18,Tennessee,Minnesota,5534970,56358,38586,53195,44802
+207,Jerry Watkins,12 Morning Circle,Mary Mcdonald,34 Bunting Park,1/16/2014,36.043,$5032.31,Vermont,North Carolina,5029921,82156,30348,64547,38371
+208,Wayne Gonzalez,3 Leroy Place,Dennis Rivera,36790 Briar Crest Hill,12/23/2013,45.884,$49913.27,North Carolina,Missouri,2839749,89485,71297,18338,18138
+209,Marilyn Ryan,393 School Crossing,Frank Watson,81 Bay Court,10/9/2013,7.592,$29403.52,Massachusetts,Alaska,2473446,40921,88782,11630,34458
+210,Joan Peterson,5935 Scoville Point,Earl Coleman,53302 Schurz Parkway,5/5/2014,71.097,$26448.27,Wisconsin,Mississippi,8142525,91387,77224,66351,97731
+211,Cheryl Ruiz,652 Stuart Center,Ann Jackson,7577 Bultman Road,11/7/2013,15.982,$74708.48,Nevada,Missouri,1246101,27120,77029,60287,82160
+212,Jerry Patterson,64163 West Plaza,Tina Dixon,9 Cordelia Park,9/25/2013,7.361,$93488.25,Alaska,New Mexico,351015,11771,62479,74414,8394
+213,Billy Long,1 Schmedeman Circle,Ronald Stone,34 Luster Park,6/25/2014,47.383,$56244.61,Oregon,Minnesota,8205932,49243,82964,23956,19609
+214,Timothy White,1396 Elmside Hill,Helen Diaz,44365 Esch Lane,4/7/2014,14.183,$855.65,Indiana,Iowa,1914532,52819,35597,83771,51462
+215,Fred Hayes,967 Farragut Drive,Keith Bradley,71857 Knutson Circle,11/19/2013,19.107,$41173.98,Pennsylvania,Michigan,3094402,64148,75238,49644,5009
+216,Carl Gardner,167 Sutteridge Drive,Antonio Willis,42 Barnett Park,1/11/2014,9.606,$7709.17,Arkansas,Maryland,5093997,81848,29500,9255,8671
+217,Edward Butler,83 Redwing Drive,Martha Carroll,6 Del Sol Crossing,7/1/2014,90.085,$47467.66,Hawaii,Maryland,8525276,83822,34446,65307,27309
+218,Evelyn Rose,806 Valley Edge Plaza,Louise Reid,4 La Follette Crossing,1/27/2014,72.926,$80351.55,North Dakota,New Hampshire,5561303,10400,32389,47063,18981
+219,Stephanie Sims,136 Carberry Center,Harold Mccoy,9569 Jay Place,7/8/2014,28.824,$75925.50,Ohio,Minnesota,5227832,58447,85672,96858,15438
+220,Alice Gonzales,6585 Waubesa Trail,Keith Howell,86 Hooker Place,8/21/2013,7.343,$29305.55,Utah,Oregon,2968187,68271,15992,46807,33574
+221,Randy Frazier,02 Mcbride Drive,Roy Clark,9260 Claremont Place,1/17/2014,70.709,$23761.05,New Jersey,West Virginia,8418917,31556,58615,95770,47384
+222,Betty Garcia,829 Mallard Plaza,Phillip Miller,524 Tennessee Crossing,4/20/2014,41.94,$91324.67,Louisiana,Rhode Island,615158,47360,45853,94278,6514
+223,Melissa Morris,2834 Scott Street,Louise Barnes,88161 Thackeray Avenue,6/18/2014,56.016,$6071.92,Delaware,Utah,8826319,89914,71876,59637,53861
+224,Wanda Cruz,805 Tennessee Place,Jeffrey Crawford,50 Eliot Way,10/11/2013,19.624,$41856.57,Idaho,Kansas,2328053,69433,12298,75103,93154
+225,Carolyn Kelley,1 Jenna Trail,John Little,0905 Express Trail,1/6/2014,8.776,$4274.98,Mississippi,Idaho,8803333,61357,30385,16208,14798
+226,Alan Long,91 Meadow Vale Center,Marie Fowler,56008 Scofield Hill,4/12/2014,80.34,$76439.03,Texas,Alabama,372915,32605,45437,63871,19221
+227,Tammy Hernandez,6 Ridgeway Hill,Bonnie Turner,34 Warbler Hill,10/30/2013,12.08,$21015.31,New Jersey,Connecticut,6792386,49004,55623,54884,57475
+228,Amy Gonzalez,5 Scott Park,Albert Fowler,34343 Johnson Way,8/22/2013,0.262,$63870.47,Hawaii,Wisconsin,8068628,93812,90725,5410,84560
+229,Willie Willis,513 Lien Road,Shirley George,8485 Bashford Road,4/9/2014,2.664,$93547.60,Alabama,West Virginia,4355143,42996,13221,48143,22269
+230,David Edwards,519 Monica Hill,Elizabeth Richards,9611 Loomis Pass,3/6/2014,56.027,$17962.62,Texas,Massachusetts,5803525,76731,1091,42740,62346
+231,Gloria Wilson,7429 Bartelt Parkway,Diane Knight,1935 Namekagon Parkway,1/31/2014,43.79,$96825.96,Ohio,Rhode Island,6961242,54744,86935,8725,83351
+232,Christina Cooper,031 Starling Drive,Janet Fields,81 Carioca Circle,12/9/2013,16.192,$74700.65,Nevada,Hawaii,5004147,43780,29652,54965,25917
+233,Norma Taylor,11 Susan Center,Larry Fisher,7 Marquette Alley,7/1/2014,51.991,$31382.63,New York,Hawaii,2926343,7065,44236,60447,18430
+234,Janice Jacobs,230 Westport Crossing,Cheryl Cooper,58 1st Crossing,1/5/2014,23.016,$69399.78,Wisconsin,Maryland,9067016,3853,28397,11903,77576
+235,Paula Marshall,773 Ronald Regan Court,Shirley Gutierrez,65 West Avenue,1/22/2014,2.755,$35556.04,South Carolina,Hawaii,3001090,4346,1037,19776,56501
+236,Edward Clark,169 Gulseth Hill,John Hamilton,8816 Schmedeman Hill,4/29/2014,84.939,$57863.06,Ohio,Minnesota,6002665,68997,41012,91164,18179
+237,Paul Webb,08802 Clyde Gallagher Junction,Stephen Turner,46116 Commercial Center,3/23/2014,75.979,$44767.25,Texas,North Dakota,1129407,25312,13852,5666,80504
+238,Stephen Barnes,00155 Bartelt Avenue,Kathy Stanley,87525 Prairieview Way,5/4/2014,99.554,$7325.16,Illinois,Maine,3820575,23267,64539,44951,51248
+239,Martha Garrett,7656 Dawn Road,Gary Ruiz,106 Harper Place,8/2/2013,59.698,$85166.67,Nebraska,Ohio,3189860,50306,46759,47619,31494
+240,Walter Burke,41 Manitowish Terrace,Anna Kelley,7568 Harbort Way,4/4/2014,33.219,$30043.59,Georgia,Connecticut,4065863,60475,3929,81960,17019
+241,Theresa Wells,6 Buell Center,Virginia Wilson,8718 Duke Lane,11/6/2013,41.424,$28370.84,New Jersey,Nevada,5329285,8529,21473,80697,64543
+242,Richard Phillips,0 Delaware Plaza,Benjamin Ortiz,102 Prairieview Crossing,12/22/2013,28.597,$45572.97,Georgia,Tennessee,2859146,94546,41280,31977,33103
+243,Roger Lee,957 Coleman Plaza,Randy Morris,46385 Myrtle Place,1/4/2014,99.476,$81201.47,Idaho,Minnesota,6725475,80777,598,22360,79142
+244,Robert Morgan,580 Duke Center,Donald Armstrong,940 Sherman Avenue,4/1/2014,8.803,$47162.93,Washington,Florida,3966857,5230,61006,66920,38122
+245,Deborah Robertson,99701 Evergreen Junction,Ralph Welch,59812 Meadow Vale Hill,6/28/2014,5.953,$62625.06,Nevada,Kansas,2653821,46230,61785,21549,70035
+246,Fred Ruiz,91412 Gulseth Junction,Henry Lawrence,88 Hoffman Pass,2/26/2014,73.827,$41606.71,Mississippi,New York,5932360,96424,13595,55577,47181
+247,Heather Hall,821 Amoth Point,Scott Chavez,84691 Westerfield Way,11/8/2013,34.801,$69399.73,Missouri,Tennessee,7251392,71694,36563,71934,10119
+248,Bruce Rose,9230 Florence Circle,Jimmy Baker,8280 School Park,2/19/2014,41.84,$13757.52,Kentucky,Michigan,7068852,85147,18723,1961,21072
+249,Betty Jenkins,1823 Grim Terrace,Jeremy Mcdonald,762 Oxford Center,10/15/2013,82.59,$49309.20,Mississippi,Michigan,9096187,84489,37756,67721,58989
+250,Ann Hernandez,3715 Mandrake Road,Nicholas Castillo,78591 Burrows Point,10/14/2013,80.784,$43845.38,Georgia,New Mexico,4822988,66344,57263,4165,26060
+251,Rebecca Hicks,3 Fallview Avenue,Billy Lynch,7291 Oriole Terrace,3/24/2014,17.534,$95658.28,Rhode Island,Texas,4910471,55297,21073,47442,2749
+252,Howard Green,9 Myrtle Terrace,Albert Chapman,4 Kipling Drive,1/4/2014,77.607,$88436.93,New Hampshire,Washington,8605211,53044,72230,29100,98061
+253,Ashley Welch,89 Pleasure Road,Heather Palmer,85 Mifflin Crossing,7/7/2014,73.356,$73224.88,Arizona,Kentucky,5191786,82164,34126,91616,97737
+254,Marie Carroll,135 Jenna Crossing,Beverly Gardner,033 Montana Parkway,5/11/2014,39.181,$63410.98,Iowa,Vermont,3093285,14561,14050,68074,31005
+255,Marilyn Pierce,939 Pearson Way,Craig Carpenter,43 Pond Plaza,4/18/2014,32.581,$40258.09,Wisconsin,Oregon,3027164,91620,13867,62661,45238
+256,Samuel Gordon,077 Vidon Avenue,Albert Castillo,8329 Fallview Avenue,10/10/2013,80.607,$13004.18,Louisiana,Montana,660555,4025,96307,8474,5146
+257,Ashley Ramos,8244 Thackeray Pass,Harold Hunt,0 Warrior Alley,9/3/2013,30.38,$27809.89,South Carolina,Maryland,4984944,92161,49890,86099,61682
+258,Laura Woods,5041 Sutherland Avenue,Alice Ramos,48 Anthes Road,10/13/2013,94.055,$23880.62,Wyoming,Missouri,844092,13447,39325,35336,9643
+259,Kathleen Alvarez,5 Randy Road,Brandon Perez,8191 Maryland Crossing,9/17/2013,15.456,$91496.31,Minnesota,Alaska,1844128,23056,36289,31878,30956
+260,Eugene Kim,1627 Nelson Crossing,Marie George,0 Continental Pass,9/2/2013,11.234,$86078.75,Montana,Tennessee,6541372,11841,74935,87874,93412
+261,Sarah Bailey,5905 Nevada Crossing,Martha Perez,46 Spaight Avenue,6/21/2014,24.659,$43497.74,Texas,Arkansas,6461876,24725,35389,77443,71998
+262,Albert Dunn,50765 Magdeline Hill,Albert Butler,767 Veith Park,1/1/2014,28.934,$33682.03,Vermont,Idaho,4718288,18224,76581,10479,54988
+263,Phillip Howard,0 Memorial Court,Jane Ross,381 Morning Plaza,8/18/2013,31.9,$80442.23,West Virginia,Georgia,6525931,63309,68291,90341,24076
+264,Cynthia Larson,1 Doe Crossing Drive,Ruby Foster,74017 Lighthouse Bay Road,2/16/2014,68.326,$64512.71,California,Vermont,473414,84371,3738,49564,40555
+265,Carol Ford,3064 Forest Run Park,Ronald Ford,1 Manitowish Hill,12/10/2013,63.896,$57203.40,Mississippi,Massachusetts,7219896,94426,42646,2978,49314
+266,Karen Morales,9 Sloan Point,Cynthia Medina,56 Loomis Junction,4/23/2014,34.464,$40268.33,Hawaii,Kansas,6470182,80116,50203,29678,51550
+267,Laura Hunter,280 Eliot Street,Robert Castillo,7 Cambridge Terrace,3/20/2014,86.226,$12466.20,Connecticut,New Hampshire,8877297,35687,66223,31500,90127
+268,Kathryn Watkins,03304 Schiller Crossing,Ruth Adams,36 Hooker Road,9/1/2013,76.145,$79864.74,Massachusetts,Georgia,925564,83642,71685,22440,92701
+269,Steven Wheeler,13418 Crest Line Park,Nicole Wood,82 Sundown Hill,9/16/2013,35.293,$91168.52,Maine,Alabama,2845596,407,12478,48147,34070
+270,Sharon Davis,9 Old Shore Street,Edward Montgomery,7516 Mesta Terrace,3/17/2014,66.348,$45605.29,Louisiana,Georgia,9291574,61205,25424,50797,23824
+271,Mary Mitchell,542 New Castle Plaza,Sharon Evans,4058 Gateway Terrace,4/21/2014,78.495,$13609.67,Tennessee,Florida,697747,56429,88584,26793,4504
+272,Michelle Richards,67 Sunbrook Alley,Richard Garcia,13600 Larry Drive,9/16/2013,91.369,$78716.12,North Carolina,Wyoming,2175879,27673,961,17851,93006
+273,Amanda Arnold,13426 Boyd Plaza,Kathy Ortiz,45 Harper Parkway,2/2/2014,69.506,$52102.92,New Jersey,Nevada,5277725,7041,48861,59841,5833
+274,Todd Long,933 Cordelia Hill,Jeremy Griffin,539 Linden Hill,10/5/2013,23.846,$11353.52,Maryland,Ohio,9090588,63681,26213,21967,22998
+275,Deborah Burton,35328 5th Avenue,Deborah Pierce,7816 Ridgeview Place,8/22/2013,27.154,$45132.11,Indiana,Kentucky,576124,1220,45481,14353,52385
+276,Sandra Carpenter,71604 David Junction,Jose Reed,778 Swallow Street,1/15/2014,41.874,$66494.32,Nevada,South Carolina,6233892,90151,65724,905,93830
+277,Steven Freeman,14497 Columbus Trail,Amy Lawson,24176 6th Trail,11/1/2013,28.565,$33813.21,Alabama,Arizona,9858138,23318,35868,66434,23997
+278,Richard Thomas,325 Chive Lane,Virginia Cox,626 Twin Pines Alley,5/12/2014,34.799,$53745.95,Washington,Kansas,8399256,11335,41570,2881,39454
+279,Sharon Jacobs,2 Swallow Lane,Brenda Rogers,55 Maryland Street,5/15/2014,70.629,$27121.54,Vermont,South Dakota,9688786,33053,57020,69611,49955
+280,Judy Armstrong,3 Melody Street,Nancy Miller,5 Graceland Drive,9/10/2013,87.323,$14287.15,South Carolina,Virginia,2049253,91976,45159,33742,74649
+281,Theresa Tucker,2 Cardinal Trail,Jeffrey Gomez,061 Laurel Park,4/27/2014,31.921,$71755.75,Maryland,Tennessee,4000889,77604,68136,64338,71354
+282,Stephanie Murray,0796 Sullivan Alley,Betty Allen,85 Harper Court,4/21/2014,22.031,$95820.61,Iowa,Oklahoma,1587773,89176,21793,97807,3477
+283,Roy Fox,71027 Rockefeller Junction,Diana Lee,06 Boyd Street,7/3/2014,93.802,$98323.69,Wyoming,Massachusetts,4680406,11673,61336,99846,22843
+284,Carl Woods,292 Fisk Place,Shawn Reed,48 Mockingbird Trail,11/5/2013,42.239,$54260.25,Kansas,Oregon,4662605,30434,52364,52909,16919
+285,Jesse Shaw,4 Becker Street,Linda Ellis,6 Heath Avenue,10/21/2013,93.888,$71987.16,Minnesota,Arizona,6835410,34251,34401,10569,65953
+286,Marie Willis,5 Lunder Junction,Donald Jenkins,4 Park Meadow Lane,6/24/2014,57.355,$92742.26,New Hampshire,Arizona,8663967,38725,46698,8492,99083
+287,Norma Bowman,7 Carey Crossing,Robin Hunter,810 Derek Plaza,10/25/2013,89.226,$92813.47,Nebraska,New Mexico,8358005,89222,58617,27034,53832
+288,Daniel Austin,966 Golf Crossing,Lois Collins,68 Emmet Point,6/30/2014,80.025,$31867.14,Alabama,Virginia,6552555,70306,92609,63974,79619
+289,Tammy George,95819 Warbler Terrace,Teresa Romero,260 Schmedeman Lane,11/3/2013,27.593,$2377.31,Indiana,Mississippi,8067411,56673,21273,8061,72402
+290,Jesse Garza,7151 Eliot Avenue,Aaron Gibson,6 Anthes Lane,12/31/2013,29.619,$66487.41,Iowa,Connecticut,9424553,58919,14809,32135,89627
+291,Nicholas Sanders,021 Hanson Center,Walter Harrison,37298 Fordem Center,8/23/2013,26.335,$49093.67,Colorado,Rhode Island,9440104,98783,12763,41995,23385
+292,Judith Henry,3 La Follette Circle,Nicole Lee,89 Dexter Center,4/22/2014,93.831,$39328.06,Kentucky,Utah,5988226,4480,66467,80362,45989
+293,Harry Stanley,111 Thierer Crossing,Heather Snyder,155 Rowland Avenue,8/19/2013,88.365,$32668.04,Wisconsin,Maryland,8427184,58205,81412,33191,61812
+294,Phyllis Baker,2 Cherokee Junction,Douglas Thomas,32380 Butterfield Pass,10/4/2013,74.768,$64628.23,Mississippi,Massachusetts,6553137,27492,25416,77011,65290
+295,Patricia Crawford,57 Westerfield Trail,Stephen Martinez,36278 Hanover Place,10/31/2013,14.863,$97920.08,Illinois,Arkansas,5615423,40584,14743,84475,16677
+296,Martha Owens,1344 Northland Alley,Cheryl Nguyen,9817 Superior Plaza,6/13/2014,57.031,$26843.25,Pennsylvania,Ohio,4264331,78113,60578,83049,37126
+297,Nicole Welch,2 Sachtjen Road,Evelyn Lawson,475 Northport Road,5/17/2014,21.185,$22172.01,Nebraska,North Dakota,316682,24094,69133,62275,9989
+298,Lisa Schmidt,94044 Sutherland Center,Sandra Allen,0767 Dapin Terrace,4/1/2014,19.742,$30403.14,Kentucky,Arkansas,8058732,85933,23326,88261,38864
+299,John Ramirez,1 Crowley Way,Craig Wagner,00 Trailsway Court,12/15/2013,91.842,$29578.50,Wyoming,Pennsylvania,3728280,56370,30665,56519,79090
+300,Gerald Woods,35885 Comanche Drive,Dorothy Garza,24283 Welch Avenue,3/1/2014,14.326,$3739.30,Illinois,Michigan,8296590,35264,74767,66322,60943
+301,Elizabeth Myers,48 Independence Terrace,Roger Ortiz,62845 Kingsford Hill,9/12/2013,21.623,$44358.32,California,Kansas,2994536,60116,10615,30869,88658
+302,Elizabeth Hawkins,918 Lukken Pass,Wayne Franklin,271 Summit Lane,10/8/2013,51.418,$62189.71,South Carolina,Illinois,595778,54186,29189,47109,89568
+303,Lois Gonzales,017 Marquette Way,Donna Perez,9 Loftsgordon Junction,10/25/2013,14.864,$43089.23,South Carolina,Texas,5280096,72668,62176,43243,69995
+304,Andrea Reynolds,5517 Northwestern Way,Emily Davis,5 Lakewood Trail,1/12/2014,79.035,$88884.47,South Dakota,Illinois,4221506,69967,77810,42430,71313
+305,Todd Ford,7 Eastwood Street,Brian Robinson,2 Sommers Parkway,9/28/2013,64.271,$86500.81,Idaho,Minnesota,5773524,56403,52998,32536,63376
+306,Brenda Rodriguez,8 Superior Trail,Kimberly Diaz,50 Walton Crossing,5/4/2014,50.799,$46450.27,South Dakota,Pennsylvania,8671096,86428,12909,71919,47961
+307,Angela Hughes,4 Jay Drive,George Fox,0 Sachtjen Way,7/13/2014,26.583,$83564.37,West Virginia,West Virginia,3463748,10546,47476,98796,87032
+308,Debra Ortiz,7691 Dawn Place,Sandra Perez,37 Sherman Drive,8/26/2013,24.369,$83990.09,Missouri,Texas,8667705,91132,92669,4188,90988
+309,Jason Greene,64 Division Park,Paul Anderson,52118 Southridge Point,6/4/2014,99.533,$32166.98,Texas,Rhode Island,8294508,20992,37770,57447,30957
+310,Adam Brooks,3 Columbus Court,Wayne Jacobs,1250 Anthes Circle,11/3/2013,5.832,$45778.86,Arkansas,Michigan,1684667,38062,10661,44724,91745
+311,Robin Butler,76 East Terrace,Edward Mcdonald,28730 Moulton Place,8/11/2014,66.048,$88225.06,Oklahoma,Indiana,9393618,4107,11802,93109,91640
+312,Joyce Walker,66 Dakota Park,Stephanie Kelley,8 Magdeline Pass,2/28/2014,6.228,$86259.80,Maryland,Alabama,6306921,65518,1901,73410,64444
+313,Maria Holmes,532 Dwight Place,Carol Lee,924 Merrick Road,10/20/2013,85.469,$21995.24,North Carolina,Delaware,9431521,76618,41156,99751,60853
+314,Alan Morales,454 Comanche Drive,Willie Mitchell,0257 Upham Crossing,7/16/2014,71.694,$40532.90,Indiana,West Virginia,6845288,25680,43148,11068,22026
+315,Virginia Holmes,78534 Anniversary Center,Bruce Simmons,58 Shasta Circle,9/5/2013,67.187,$89603.10,Nevada,Georgia,5533293,30211,38239,802,67245
+316,Thomas Peters,4611 Gale Alley,Eugene Baker,11519 Huxley Way,9/9/2013,71.682,$67357.93,Utah,Missouri,2622683,22677,88853,33775,36178
+317,Kevin Lynch,40 Ruskin Road,Debra Burton,4 Twin Pines Crossing,10/18/2013,62.629,$25341.69,Delaware,Hawaii,4845440,31109,12575,60207,31657
+318,Christine Mcdonald,8 Eastlawn Hill,Jennifer Daniels,901 Dawn Hill,10/20/2013,58.144,$71916.78,New Mexico,New Jersey,426335,55562,42847,44015,46872
+319,Thomas Carter,5 Pleasure Avenue,Eric White,46207 Farragut Avenue,1/20/2014,41.187,$45725.64,Michigan,New York,9182892,49957,33020,17568,97678
+320,Carlos Arnold,092 Haas Street,Linda Russell,7969 Gale Pass,1/23/2014,96.19,$83232.37,Louisiana,Georgia,119784,41293,54851,59681,92729
+321,Virginia Brooks,902 Dennis Alley,Larry Nelson,8 Karstens Point,11/7/2013,83.45,$48066.02,Kentucky,West Virginia,7923846,61619,3441,4497,41261
+322,Irene Alvarez,86 Hanover Trail,Arthur Shaw,07 Longview Crossing,9/24/2013,88.409,$38562.98,South Carolina,Maine,1412806,50839,56829,23857,16833
+323,Susan Anderson,6 Homewood Place,Rose Powell,430 Shelley Hill,2/25/2014,9.067,$13398.29,Delaware,Georgia,2341551,89225,46401,10687,96503
+324,Michael Bishop,11187 Bunker Hill Pass,Evelyn Burke,23202 Mallory Hill,12/23/2013,86.089,$88943.87,New Mexico,Indiana,4016662,20856,6451,86339,97429
+325,Nancy Howard,593 Sutteridge Hill,Lisa Pierce,4650 American Alley,11/19/2013,91.897,$39887.46,Louisiana,Washington,531654,60839,42240,21667,75106
+326,Jack Baker,964 Meadow Valley Trail,Carolyn Kim,6 Myrtle Place,1/2/2014,66.898,$55179.96,Ohio,Texas,2580205,27500,45922,75012,83438
+327,Marie Fox,9 Talmadge Parkway,Earl Greene,394 Lawn Avenue,1/30/2014,64.741,$59341.01,Iowa,Alaska,3575541,86723,14285,95348,58156
+328,Margaret Lewis,379 Main Junction,Catherine Parker,191 Kensington Point,11/18/2013,0.552,$11875.51,Wisconsin,Kansas,6976436,8393,46830,21494,73466
+329,Karen Bishop,8 Cascade Park,Steven Castillo,80821 Bellgrove Park,8/29/2013,75.407,$66216.78,Arkansas,Louisiana,147039,10812,99629,28348,5003
+330,Joan Patterson,4965 Dexter Way,Joe Wilson,7 Anhalt Street,2/5/2014,75.45,$47489.17,Minnesota,Massachusetts,1989697,97350,99150,90182,55514
+331,Christopher Coleman,4 Dahle Center,Teresa Payne,33822 Forest Trail,1/30/2014,97.496,$21909.80,North Carolina,Maine,5687006,53021,23678,14784,32361
+332,Jean Brown,814 Fremont Park,Donna Richards,220 Nova Junction,4/4/2014,21.732,$58490.02,Maryland,Alaska,4038309,52369,79286,14692,73082
+333,Frank Lawrence,41307 Sunnyside Point,Todd Torres,58736 Luster Way,10/19/2013,96.354,$94386.20,Massachusetts,Indiana,2464115,75460,22201,93239,38447
+334,Johnny Hunt,4227 Monterey Place,Aaron Hall,3 Macpherson Plaza,4/12/2014,14.818,$26052.92,South Dakota,Minnesota,2152143,72853,80129,39869,22014
+335,Dorothy Collins,72 Walton Plaza,Keith Baker,3 Butterfield Court,5/27/2014,9.57,$58941.82,Maryland,Missouri,7322828,42779,75270,23530,92017
+336,Mary Price,02992 Dixon Junction,Jeffrey Fernandez,9317 Hoard Point,10/19/2013,18.217,$89336.05,Massachusetts,Maryland,9444747,52798,29565,76219,38512
+337,Susan Gilbert,46 Spaight Junction,Craig Baker,3836 Towne Center,12/23/2013,25.999,$85397.19,Texas,Kansas,1735398,89869,95064,79552,51130
+338,Carlos Morales,992 Pierstorff Street,Tammy Burke,28877 Toban Crossing,12/11/2013,80.658,$789.05,Indiana,Hawaii,3009875,85648,28676,3108,91820
+339,Bruce Freeman,72103 Novick Road,Bonnie Dean,64520 Golf Course Alley,6/15/2014,49.832,$21040.11,Pennsylvania,Mississippi,2325039,42548,28562,85871,81813
+340,Jerry Meyer,3590 Ridgeway Lane,Stephen Garza,3 Hallows Lane,8/5/2014,77.381,$68558.55,Nebraska,New York,5687184,96098,50415,59338,57165
+341,Dorothy Bell,1844 Pawling Trail,Terry Fowler,31 Dawn Plaza,10/23/2013,54.012,$59480.94,North Carolina,North Carolina,6069636,38589,64901,99563,36135
+342,Paula Fields,6178 Riverside Drive,Gregory Carr,75122 Susan Road,5/29/2014,89.517,$35342.52,Nebraska,Minnesota,5673625,62189,3760,11691,81990
+343,Rachel Ramirez,1120 Caliangt Parkway,Walter Ruiz,41 Warner Plaza,12/12/2013,86.307,$13047.79,Texas,Alaska,7236315,77304,53385,78632,42326
+344,Russell Adams,40943 Bunting Lane,Phyllis Welch,5 Kipling Road,7/11/2014,94.575,$61474.18,South Dakota,North Dakota,9101853,13704,61252,28137,56166
+345,Kimberly Cooper,7 Truax Plaza,Christine Burns,80863 Lillian Lane,10/5/2013,46.763,$49207.54,North Dakota,Hawaii,6248427,93563,37168,67160,78377
+346,Brenda Perry,72 Mesta Junction,Justin Johnson,8627 Eastwood Circle,10/28/2013,68.819,$32447.18,Rhode Island,Alaska,6084637,68406,85945,72622,49712
+347,Wayne Olson,0445 Kinsman Pass,Ann Black,155 Grasskamp Trail,2/18/2014,55.655,$73866.08,Georgia,Delaware,8766182,24625,87733,99069,46902
+348,Edward Scott,9 Everett Park,James Grant,20 Pennsylvania Pass,10/17/2013,91.487,$23742.66,Indiana,South Carolina,312737,4529,92780,20125,15272
+349,Andrea Nguyen,1 Shelley Court,Douglas Clark,7418 Miller Alley,4/10/2014,55.603,$655.44,Georgia,Louisiana,6717093,42262,91655,37546,60019
+350,Lois Gonzalez,6 Fremont Street,Thomas Gutierrez,63621 High Crossing Crossing,5/19/2014,73.676,$71715.14,Montana,Pennsylvania,528368,42316,62992,76071,59735
+351,George James,5 Raven Parkway,Heather Morgan,10 Menomonie Pass,2/6/2014,20.747,$5017.31,Georgia,Tennessee,9398117,49434,79817,32516,67865
+352,Ralph Riley,17347 Manitowish Junction,Louise Vasquez,5516 Pleasure Way,12/6/2013,83.223,$18856.07,Nebraska,Indiana,7140362,61106,72983,93247,67106
+353,Betty Howell,50388 Lunder Trail,Beverly Ramos,34290 David Trail,6/7/2014,28.068,$49981.02,Alabama,Missouri,2586128,56762,46158,46941,70720
+354,Kimberly Moore,1 Mcbride Parkway,Sara Jordan,6 Grim Hill,12/14/2013,25.106,$28533.03,Iowa,Idaho,5052409,40435,59953,61630,35759
+355,Norma Bowman,2416 Brickson Park Avenue,Lillian Jones,085 Shoshone Avenue,9/24/2013,31.738,$98970.25,Wisconsin,Kansas,4495407,50455,89617,86867,70420
+356,Frank Murray,7856 Hayes Pass,Harry Gordon,2 Melrose Plaza,4/26/2014,61.649,$60309.44,Arkansas,Tennessee,439209,95508,41456,4767,33277
+357,Virginia Gutierrez,86 Hollow Ridge Lane,Wayne Morales,77 Pleasure Pass,4/3/2014,18.915,$30712.26,Oklahoma,South Dakota,7275890,33241,60420,44292,85484
+358,Irene Jackson,503 Corben Hill,Ryan Bradley,11485 Calypso Lane,10/28/2013,71.689,$28114.20,Oklahoma,Maine,293274,95251,54975,4356,10826
+359,Anne Warren,7274 Dunning Avenue,Brandon Gonzalez,247 Thierer Trail,8/12/2013,15.369,$22866.79,South Dakota,Maryland,2651260,48777,90256,56997,64438
+360,Tammy Evans,49950 Susan Crossing,Heather Holmes,7596 Tony Way,11/23/2013,97.656,$7296.66,Wyoming,Colorado,3943007,15852,36383,35308,71245
+361,Bruce Anderson,472 Reindahl Hill,Carol Grant,581 Farmco Way,9/19/2013,77.869,$78371.73,Texas,Wisconsin,307787,10954,93068,6107,62974
+362,Peter Ross,24324 Norway Maple Circle,Nicholas Nichols,1 Anniversary Junction,1/21/2014,38.558,$65835.45,Illinois,New Hampshire,7517214,83350,99992,64161,44276
+363,Donald Lopez,375 Kropf Park,Jose Lawson,1 Fallview Crossing,8/7/2014,70.409,$95055.45,Hawaii,Vermont,5909271,3917,41029,48704,61463
+364,Tina Flores,46611 Loeprich Place,Karen Gutierrez,0 Fairview Street,3/20/2014,69.102,$57876.63,Ohio,Nevada,2423181,61971,76114,94939,54442
+365,Kenneth Murray,2771 Crest Line Junction,Emily White,8267 Old Gate Pass,4/25/2014,48.039,$29893.18,Vermont,Utah,1105326,85749,9740,47824,44296
+366,Earl Greene,85 Meadow Vale Pass,Irene Harper,97 Loftsgordon Alley,3/3/2014,4.378,$39240.60,Iowa,Kentucky,1742740,27562,31348,44712,64392
+367,Melissa Hanson,0 Hagan Plaza,Mark Gibson,07 Carberry Place,12/31/2013,34.078,$96451.66,Texas,Wyoming,381995,39984,13035,13402,18394
+368,Betty Martinez,4 Petterle Parkway,Andrew Ramos,159 Drewry Road,1/18/2014,4.655,$1185.35,Arizona,Minnesota,1958254,6111,67484,65011,71119
+369,Steve Daniels,3647 Manitowish Hill,Aaron Burton,029 Warner Street,5/2/2014,58.721,$85747.61,Wyoming,Mississippi,3347625,26391,87743,494,67700
+370,Stephen Holmes,481 Kinsman Road,Rose Reid,44796 Knutson Trail,5/3/2014,88.39,$90916.49,Pennsylvania,Virginia,9366522,59307,9096,74897,45776
+371,Rachel Cruz,7 Armistice Parkway,Victor Ortiz,54 Oakridge Circle,9/19/2013,74.67,$99161.79,North Carolina,Wisconsin,6275907,66808,13538,48918,30161
+372,Antonio Fields,441 Di Loreto Street,Frances Sims,9 Clove Alley,8/17/2013,16.471,$76359.96,Utah,Nebraska,1665389,49283,62744,67985,35522
+373,Eric Matthews,8514 Meadow Ridge Avenue,Nicole Hanson,49251 Bultman Point,12/19/2013,27.417,$86950.39,New Hampshire,West Virginia,2348438,91578,18023,591,75940
+374,Frank Rodriguez,764 Bashford Trail,Heather Ross,65861 8th Park,1/2/2014,13.621,$28694.91,Alabama,New Mexico,9565614,2689,2519,80398,57808
+375,Stephen Bailey,14 Eagle Crest Point,Anthony Fields,84491 Lunder Junction,2/7/2014,9.973,$36547.26,Missouri,South Carolina,6146235,29675,39537,99202,5183
+376,Alice Sanchez,3 Oneill Street,Janet Frazier,63645 Northland Park,9/11/2013,77.599,$62822.42,Vermont,Michigan,3829786,18312,82719,33772,96263
+377,Adam Robertson,9 Corscot Parkway,Kenneth Harper,29 Steensland Road,6/21/2014,12.407,$1892.23,Kansas,Delaware,2089799,55877,53800,82531,2999
+378,Anna Hansen,33165 Heffernan Terrace,Raymond King,06975 Russell Court,9/25/2013,50.373,$26448.40,Arizona,Vermont,1419406,38325,18935,63594,22892
+379,Sara Alvarez,21897 Pearson Parkway,Brandon Black,7 Heath Trail,4/16/2014,47.345,$15874.72,Kentucky,Nevada,2466469,92866,23188,7683,92906
+380,Johnny Rose,3 Tomscot Court,Mark Rivera,1 Loftsgordon Terrace,6/30/2014,15.367,$89718.44,Nebraska,Missouri,9749142,84968,76130,54528,45458
+381,Susan Owens,4532 Beilfuss Drive,David Russell,623 Barnett Crossing,5/30/2014,11.6,$94044.76,Michigan,Arizona,430965,75895,37698,50479,92882
+382,Donna Moreno,360 Upham Point,Teresa Torres,3994 Stuart Place,2/9/2014,57.911,$42396.06,Louisiana,New Mexico,6512067,1362,57864,85824,85937
+383,Teresa Mccoy,813 Michigan Hill,Donald Harper,1 Mcguire Lane,5/31/2014,97.827,$67807.25,Delaware,Alabama,2338658,42776,96473,50654,62745
+384,Terry Garcia,8211 Bunting Drive,Randy Porter,44890 Garrison Park,7/18/2014,7.54,$24485.92,West Virginia,Minnesota,9196936,74698,14712,55339,20210
+385,Amy Chapman,53171 Warner Center,Jeffrey Gibson,7 Valley Edge Hill,6/15/2014,71.274,$16573.68,Ohio,North Carolina,3554081,98132,94883,4472,3872
+386,Melissa Gonzales,4 Banding Drive,Melissa Myers,74 Warner Circle,7/22/2014,35.34,$57654.52,Oregon,Idaho,9359175,37397,84614,57305,97738
+387,Sharon Fuller,7089 Village Avenue,Mark Wilson,7978 Anhalt Terrace,1/4/2014,85.792,$58366.61,Georgia,Georgia,2599282,99546,93704,86948,1737
+388,Anne Harrison,78557 Chive Circle,Carlos Scott,4008 Vernon Way,6/17/2014,10.512,$35943.89,Arkansas,Georgia,6373158,13585,25182,86001,88373
+389,Kelly Cook,5 School Place,Jerry Olson,44 Novick Circle,5/2/2014,42.286,$36580.13,South Carolina,Georgia,6861076,82946,21080,79557,29696
+390,Billy Dixon,307 Grasskamp Avenue,Jennifer Taylor,5 Farmco Pass,5/13/2014,9.729,$51116.88,Louisiana,Hawaii,5880530,19465,72836,71874,75666
+391,Jennifer Perry,3141 Riverside Parkway,Johnny Hamilton,0 Thierer Crossing,4/2/2014,99.159,$39232.31,Florida,Hawaii,2393667,24700,17226,33918,37623
+392,Todd Woods,33 Dwight Avenue,Billy Stanley,34 Loomis Street,11/29/2013,71.42,$15331.20,Hawaii,Illinois,7535312,20260,64140,98978,5650
+393,Andrew Baker,2 Dennis Pass,Elizabeth Matthews,71 Pepper Wood Hill,2/24/2014,1.179,$15511.73,Arkansas,Indiana,983529,52097,76290,35180,41297
+394,Rose Carpenter,530 Fieldstone Lane,Donald Sanchez,2492 Golf Junction,9/18/2013,2.335,$90167.84,Florida,Michigan,7840854,84635,7596,22522,47671
+395,Patrick Medina,12 Anhalt Terrace,Billy Burke,59 Vernon Point,4/1/2014,72.347,$66868.78,Colorado,Mississippi,8476027,22227,77624,45903,16036
+396,Gregory Ramos,15 Express Park,Sharon Schmidt,62 Golf Course Avenue,1/10/2014,73.874,$86989.95,Mississippi,Oklahoma,6227216,51456,54516,23634,86071
+397,Dennis Harris,1 Pierstorff Way,Albert Ramirez,84245 Rutledge Avenue,7/29/2014,7.87,$91087.87,Nevada,South Carolina,7298463,38106,47787,12362,65246
+398,Bonnie Martinez,015 Bluejay Lane,Diana Watson,0670 Meadow Valley Trail,4/23/2014,22.794,$93713.55,New York,California,5462896,11417,99330,6551,65396
+399,Amy Fields,522 Walton Parkway,Harold Williamson,3472 Scoville Trail,1/9/2014,65.528,$3245.41,Oklahoma,Hawaii,7558083,89987,81489,84952,15435
+400,Ralph Castillo,1 Moland Street,Margaret Turner,5 Continental Terrace,11/16/2013,70.99,$47985.24,New York,Missouri,3857321,11799,86731,57412,42453
+401,Stephanie Lee,4 Petterle Terrace,Peter Dean,461 Canary Terrace,8/23/2013,37.485,$32165.66,Oregon,Rhode Island,506857,97995,23608,28302,96456
+402,Jose Perry,3823 Melody Crossing,Debra Sanders,12386 Northridge Center,3/28/2014,43.87,$39756.98,New Mexico,Oregon,258635,60326,22372,48465,92729
+403,Billy Cole,1748 Thierer Circle,Gregory Rogers,2310 Stone Corner Street,1/28/2014,52.492,$4669.62,New Mexico,Texas,395556,37986,62565,77714,20992
+404,Alan Austin,5825 Daystar Place,Howard Washington,42651 Buell Terrace,3/2/2014,30.125,$78442.13,Texas,Virginia,8071818,31843,80696,54342,76708
+405,Patrick Collins,9 Northport Place,Jeremy Rogers,2275 Maryland Hill,12/30/2013,60.765,$46548.83,Massachusetts,Florida,5346990,73852,81461,33175,81846
+406,Christina Burns,37375 Stang Trail,Adam Hayes,54 Kingsford Terrace,9/8/2013,91.837,$34440.57,Idaho,New York,670420,94636,96437,28840,43485
+407,Katherine Hall,8109 Miller Way,Joshua Collins,02613 Briar Crest Center,12/6/2013,83.289,$61871.33,South Dakota,New Jersey,213484,57957,66004,56745,89752
+408,Judith Nguyen,90111 Truax Junction,Paula Ruiz,19 Harper Parkway,5/29/2014,44.002,$60536.68,Indiana,Massachusetts,3163596,34435,84991,47299,22221
+409,Karen Lee,43029 Mendota Alley,Rebecca Mitchell,4908 Gale Point,10/5/2013,28.781,$50169.64,New Mexico,North Carolina,5914025,41873,89933,57423,94539
+410,Phyllis Ferguson,5609 Declaration Place,Jacqueline Palmer,579 East Road,12/25/2013,33.294,$27888.19,Idaho,Alaska,5476111,6991,53195,28502,96339
+411,Joyce Rodriguez,43 Westend Circle,Harry Olson,2 Randy Hill,2/11/2014,98.422,$62686.06,Kansas,Texas,8133536,70620,70374,91085,45507
+412,Paul Torres,41 Dunning Parkway,Eugene Romero,83037 Forster Pass,8/1/2013,36.448,$41645.43,South Carolina,Montana,9177091,8080,28523,17303,58448
+413,Kimberly Clark,50047 North Alley,Ann Ryan,9 Little Fleur Road,10/17/2013,80.411,$83467.13,Alaska,Vermont,6628132,42423,62443,52348,81104
+414,Judy Flores,58 Calypso Park,Harry Boyd,420 Di Loreto Park,9/27/2013,12.683,$22063.50,Oregon,North Carolina,9553776,83856,17200,84105,96740
+415,Margaret Lee,230 Mcbride Way,Evelyn Rogers,56 Commercial Alley,10/13/2013,40.396,$18097.37,New Jersey,Hawaii,2413163,71993,62671,1400,8907
+416,Karen Meyer,6704 Pine View Way,Matthew Hanson,595 Tennyson Parkway,9/24/2013,64.465,$25522.06,Alabama,Connecticut,762796,28486,47771,8170,56557
+417,Paul Berry,9 Ridgeview Plaza,Ryan Reyes,25 Bluejay Street,9/26/2013,24.895,$53553.36,Rhode Island,Kansas,7812116,11033,28166,87520,84732
+418,Anne Bradley,37118 American Ash Parkway,Jonathan Thomas,59 Amoth Avenue,3/8/2014,83.105,$63283.28,Colorado,Alabama,3079776,51604,96627,67516,70885
+419,Jason Sullivan,701 Alpine Road,Anne Sanchez,040 Talmadge Place,3/27/2014,65.789,$87749.24,New Hampshire,Illinois,1744685,30404,53325,44579,8727
+420,Donald Butler,419 Colorado Court,Bobby Stewart,7574 Maryland Center,11/13/2013,60.039,$61233.81,Arizona,Ohio,5639035,11451,41057,14837,83884
+421,Roy Hunt,7221 Coolidge Drive,Russell Foster,70188 Leroy Pass,8/9/2014,64.089,$59893.59,Utah,Mississippi,4590888,10012,96529,45140,52160
+422,Carlos Larson,7 Moland Plaza,Frank King,02193 Golf Course Plaza,9/26/2013,26.225,$5506.58,New Jersey,Tennessee,9792071,32494,64331,18881,79349
+423,Jane Crawford,97210 Mayfield Alley,Shawn George,83 Chive Alley,5/21/2014,38.41,$10282.84,Mississippi,Missouri,8153137,14675,42207,64978,17511
+424,Margaret Gilbert,15369 Oak Valley Parkway,Adam Cook,57 2nd Avenue,2/24/2014,97.232,$13328.70,Georgia,Hawaii,9237232,15555,79178,13542,42980
+425,Ryan Morales,341 Moulton Lane,Joshua Campbell,8241 Hoard Lane,8/6/2014,29.872,$13349.46,Oregon,New York,3300847,33128,41922,4015,73700
+426,Sean Mendoza,7460 Corben Alley,Eugene Reyes,21625 Raven Center,8/17/2013,92.033,$92169.14,South Dakota,Arizona,2866629,96533,24,58938,40887
+427,Ralph Wells,79298 Karstens Trail,Earl Washington,39125 Scott Junction,7/9/2014,85.545,$45810.51,Ohio,Wisconsin,2792330,15633,48331,29335,98276
+428,Tina Elliott,0 Talmadge Road,Todd Griffin,643 Mendota Street,6/27/2014,46.004,$48467.46,Maryland,New York,5958373,58567,79031,76879,5768
+429,Amy Moreno,0914 Hoffman Drive,Steven Ortiz,37226 David Circle,7/11/2014,25.434,$30845.45,New Mexico,Idaho,6554121,50797,40986,51306,28325
+430,Eugene Kim,47 Morning Crossing,Steven Young,738 Buena Vista Park,10/12/2013,16.649,$67338.94,Mississippi,Kentucky,1076275,42153,8539,42827,70014
+431,Craig Watkins,5775 Autumn Leaf Plaza,Lisa Rivera,080 Welch Crossing,9/17/2013,22.664,$39134.08,Nebraska,Kansas,3305309,83922,33217,86175,5653
+432,Gary Allen,578 Rowland Park,Louise Watson,95414 Sundown Point,4/18/2014,60.589,$68804.92,Wyoming,Vermont,4878034,28094,73593,51699,58167
+433,Nicholas Peters,4 Fulton Avenue,Antonio Gray,72696 Roth Drive,11/13/2013,60.3,$2616.26,Alaska,Kentucky,5240313,75327,64002,20353,16520
+434,John Rice,72 Sachtjen Terrace,Karen Howard,130 Shoshone Terrace,1/29/2014,47.558,$67149.90,South Dakota,New Jersey,9180435,1993,75944,56159,29524
+435,Rachel Shaw,5148 Drewry Way,Tammy Johnson,401 Jana Plaza,10/1/2013,87.241,$58471.30,Rhode Island,New York,6021038,88147,33056,63018,62336
+436,Wanda Clark,4562 Debs Street,Annie Stevens,635 Express Park,9/25/2013,1.896,$61968.06,New Mexico,South Dakota,9871712,86855,2172,92936,37292
+437,Richard Burke,53 Schiller Circle,Pamela Allen,8 Pond Point,8/15/2013,50.279,$4922.03,Oregon,Nebraska,1762265,52456,4855,62467,57464
+438,Andrew Fox,66845 Forster Drive,Irene Reyes,5 Amoth Point,5/11/2014,70.801,$14957.96,New York,South Dakota,4786949,66334,5154,39769,35883
+439,Gloria Ruiz,39021 South Lane,Anne Barnes,19818 Messerschmidt Street,1/6/2014,35.063,$10131.15,New Jersey,Vermont,607842,15779,2824,56754,19798
+440,Justin Brown,34 Magdeline Circle,Juan Duncan,79 Bluestem Center,3/15/2014,26.971,$65842.62,Vermont,Nebraska,4697120,58508,74046,768,88317
+441,Theresa Fisher,5 Blue Bill Park Lane,Terry Howell,7 Anniversary Trail,10/2/2013,75.659,$44617.57,Nevada,Hawaii,5599119,78952,16539,69874,93951
+442,Debra Peterson,36 Lillian Point,Rachel Shaw,1525 Memorial Plaza,4/8/2014,30.288,$90241.32,California,Utah,10735,96920,17303,55370,77780
+443,Amy Carpenter,9 Northwestern Drive,Alice Wheeler,946 Northland Hill,8/6/2013,30.291,$21156.61,Hawaii,Maryland,8386699,1212,37990,1351,4055
+444,Rachel Jacobs,4 Judy Center,Phillip Kelley,006 Gerald Center,11/15/2013,98.956,$81793.42,Michigan,Missouri,5846422,19675,22947,49140,16883
+445,Alice Rose,9621 Bellgrove Park,Diane Stevens,24 Saint Paul Lane,4/9/2014,2.869,$53470.74,Massachusetts,Louisiana,2514041,82876,40681,85775,97663
+446,Jerry Riley,4217 Loomis Circle,Carl Mccoy,154 Debra Center,7/27/2014,95.165,$59798.46,Missouri,Alaska,383057,50469,25912,68821,70818
+447,Shirley Jackson,8960 Lakewood Way,Gerald King,94873 Jay Pass,3/24/2014,77.517,$56035.76,South Carolina,New York,4227336,17036,89761,12368,31998
+448,Bonnie Black,589 Oxford Center,Kevin Bennett,6 Goodland Park,10/29/2013,99.776,$36430.47,Vermont,Missouri,6775527,76429,94355,5188,49608
+449,Mark Duncan,527 Oak Valley Place,Matthew Gray,1117 Macpherson Junction,11/27/2013,70.726,$76795.16,Tennessee,Pennsylvania,7797508,80977,53204,41513,93292
+450,William Williams,3 Old Shore Crossing,Eric Snyder,662 Stone Corner Lane,8/20/2013,36.492,$29096.49,Oregon,Tennessee,7246826,17797,53197,19180,67017
+451,Martha Coleman,06725 Bashford Parkway,Nancy Jordan,71916 Briar Crest Center,9/23/2013,88.13,$79610.97,Maine,West Virginia,7189648,34599,64679,54374,73709
+452,Kenneth Collins,05 5th Parkway,Kelly Hart,8 Green Ridge Drive,5/18/2014,23.768,$74211.92,New Jersey,Rhode Island,522585,41781,80629,54211,43950
+453,Randy Martinez,2200 Knutson Circle,Helen Howell,01113 Scoville Terrace,6/3/2014,53.426,$25720.23,Florida,Idaho,7189843,77682,79698,74376,96384
+454,Emily Stone,086 Chinook Road,Joyce Lynch,5 New Castle Road,10/24/2013,72.615,$34309.60,Ohio,Utah,7132896,47075,26239,56314,49649
+455,Heather Alexander,582 Granby Circle,Jane Morrison,273 Nova Center,1/11/2014,32.213,$63775.78,Vermont,Washington,8388998,98154,69754,78202,97155
+456,Adam Richardson,70 Claremont Way,Martin Harrison,38458 Starling Circle,1/8/2014,40.502,$82307.32,Delaware,Oklahoma,9509191,42743,64337,37666,72300
+457,Joshua Bradley,5 5th Court,Laura Stanley,59 Memorial Lane,7/1/2014,14.835,$20319.20,Massachusetts,Michigan,6491992,36754,41414,73380,24315
+458,Bruce Carpenter,93118 Rieder Park,Christine Myers,7272 Moland Avenue,2/1/2014,37.008,$48461.31,Massachusetts,Connecticut,2585940,64551,41457,32553,70641
+459,Billy Hill,8423 Golf Way,Virginia Cunningham,152 Sutteridge Trail,7/7/2014,19.885,$47997.53,South Dakota,Pennsylvania,6525222,79439,86717,18643,31379
+460,Sean Nguyen,62577 Clarendon Lane,Marie Foster,4348 Logan Court,11/30/2013,4.461,$27577.53,New Jersey,Washington,7700220,75471,12108,55887,3522
+461,Amy Dean,7760 Morningstar Parkway,Frances Riley,154 Mcbride Hill,3/16/2014,46.552,$73112.89,Arizona,Alabama,2953583,79543,34702,58419,39112
+462,Fred Willis,26 Dahle Avenue,Jennifer Ruiz,3682 Leroy Circle,4/7/2014,63.858,$57360.79,North Dakota,North Carolina,9193765,29963,35219,69376,31630
+463,Louis Snyder,61 Lighthouse Bay Point,Eugene Hawkins,775 Burrows Point,1/22/2014,43.477,$19362.46,New Mexico,New York,3781219,99581,93318,16519,65256
+464,Kenneth Warren,97 Bellgrove Circle,Andrew Mendoza,593 Lerdahl Road,2/21/2014,83.733,$57009.80,Oklahoma,Tennessee,790282,17546,55782,75859,3346
+465,Elizabeth Collins,34 Meadow Ridge Park,Timothy Reynolds,69790 Golden Leaf Place,9/5/2013,90.334,$56985.04,Alaska,Ohio,9303877,93596,60237,31477,53242
+466,Julia Bradley,2203 Trailsway Plaza,Carl Austin,7 Scoville Alley,7/2/2014,77.585,$21374.20,Idaho,South Dakota,5485097,2765,58097,32033,90554
+467,Carolyn Grant,6 Little Fleur Parkway,Brian Larson,79435 Leroy Avenue,1/20/2014,99.876,$71507.39,Alabama,New Jersey,6255026,70066,40504,35433,7009
+468,Heather Wallace,31 Loftsgordon Street,Billy Lynch,8 Heath Circle,8/25/2013,27.466,$50662.95,California,Pennsylvania,3187402,6441,81612,32077,88552
+469,Stephanie Davis,3701 Arkansas Avenue,Stephen Henderson,83 Mayer Parkway,3/1/2014,83.029,$10168.89,Georgia,Wyoming,5163508,46248,89184,58590,70301
+470,Michael Lynch,059 Eagle Crest Crossing,Harry Diaz,98 Florence Way,7/26/2014,33.293,$55166.51,Arizona,Nebraska,7054412,9747,90562,37347,45717
+471,Randy Cook,07 Portage Street,Joseph Graham,1040 Twin Pines Street,9/18/2013,7.773,$29760.48,New York,West Virginia,8755091,62778,77945,73236,32306
+472,Paula Pierce,2909 Hanover Street,Billy Simmons,4 Forest Hill,2/5/2014,62.365,$55196.51,Maine,Arizona,9180379,29778,38897,61349,94623
+473,Brian Garza,309 Bultman Alley,Diana Bradley,82 Bowman Pass,6/13/2014,84.729,$50595.53,Rhode Island,Indiana,7584693,20415,25142,59024,5548
+474,Dennis Price,780 Donald Avenue,Joshua Hanson,2200 Pennsylvania Court,10/22/2013,95.166,$61610.69,Oregon,Louisiana,8428874,30032,8571,77839,49200
+475,Howard Palmer,43 Bunting Park,Chris Chapman,4264 Kipling Plaza,9/29/2013,82.308,$95079.19,California,South Dakota,5046469,10608,59477,6972,39849
+476,Tammy Rivera,23258 Merry Circle,Stephanie Clark,375 Acker Center,6/12/2014,40.045,$12659.11,Tennessee,Hawaii,5705152,71891,94312,20606,11271
+477,Mildred Oliver,75451 Oriole Drive,Nancy Arnold,9464 Anthes Center,9/17/2013,19.773,$12051.89,Wisconsin,Alabama,1898067,30986,34137,4015,46397
+478,Carolyn Tucker,5806 Mallard Road,Mark Flores,324 Di Loreto Alley,1/21/2014,58.486,$3677.61,North Dakota,Connecticut,4185195,99737,32129,5828,70577
+479,Billy Woods,89 Doe Crossing Point,Dennis Alvarez,433 Sugar Avenue,7/29/2014,23.46,$52545.25,Vermont,North Carolina,5950667,26566,34125,91046,99438
+480,Susan Gray,4 Erie Point,Charles Hawkins,46 South Place,9/23/2013,49.353,$51903.25,Minnesota,Indiana,6523365,36311,97241,66442,74367
+481,Jose Andrews,8210 Spohn Drive,Roy Stevens,8276 Fairview Drive,1/4/2014,37.528,$77115.53,Oregon,North Dakota,5885113,40042,89024,49291,27630
+482,Douglas Richardson,5 Brickson Park Junction,Willie Hall,12086 Oakridge Trail,12/9/2013,31.183,$32981.92,Indiana,New York,1588945,65423,76900,62976,35558
+483,James Edwards,1 Summit Plaza,Dorothy Mcdonald,3 Canary Pass,2/20/2014,68.193,$63643.46,Montana,North Carolina,7827517,87397,2693,98074,31212
+484,Barbara Gonzales,59377 Packers Pass,Marie Taylor,9224 Pleasure Center,12/19/2013,8.466,$28849.54,Rhode Island,Ohio,8467151,11540,33795,52626,51263
+485,Sandra Martin,42903 Packers Park,Emily Lane,5 Scoville Court,3/18/2014,66.843,$14668.19,Indiana,Minnesota,9575205,46981,32446,47000,27477
+486,Martin Graham,0 Crownhardt Terrace,Randy Lawrence,575 Center Lane,8/1/2013,92.991,$62986.25,South Carolina,South Dakota,4993734,87142,92662,91891,3106
+487,Annie Bell,564 Cambridge Lane,Jean Griffin,361 Lakewood Gardens Street,8/6/2014,74.593,$86721.24,West Virginia,New York,4617849,21854,94403,90089,88628
+488,Virginia Stone,687 Monterey Terrace,Andrew Weaver,311 Bowman Center,7/13/2014,11.39,$79520.40,Montana,Ohio,2408601,8767,14120,29154,46963
+489,Jacqueline Morgan,4987 Morningstar Crossing,Kevin Ramirez,7 Hauk Center,10/29/2013,11.512,$12259.54,Massachusetts,New York,5684471,63306,19462,45691,97895
+490,Jonathan Nelson,89119 Morning Road,Robert Elliott,10769 Old Shore Alley,7/3/2014,20.468,$14478.68,Washington,Alaska,3807043,81413,95125,7508,56630
+491,Kelly Fox,0280 Vidon Court,Jacqueline Young,63389 Harbort Parkway,6/7/2014,9.119,$21334.83,Massachusetts,South Dakota,2434420,30635,9167,76431,55038
+492,Dennis Reyes,679 Blue Bill Park Point,Kelly Fisher,493 Garrison Hill,11/19/2013,31.326,$84399.19,New Mexico,Arizona,9496002,41328,2287,18730,18504
+493,Barbara Parker,822 Sunbrook Point,Anne Hall,65944 Southridge Court,12/10/2013,33.542,$55367.27,Georgia,Florida,4833672,22870,79713,27467,27713
+494,Sandra Meyer,7 South Center,Eric Rodriguez,77738 Ohio Place,2/23/2014,68.312,$8982.87,Arkansas,Hawaii,9885077,36802,90508,84582,97153
+495,Christopher Taylor,19 Mallory Place,Tammy Graham,2 Erie Avenue,7/13/2014,50.395,$7527.08,Vermont,Ohio,8087906,26871,18173,28494,44530
+496,Steve Williams,84304 Lotheville Pass,Emily Price,21063 Vermont Street,2/13/2014,63.023,$56108.79,Michigan,Hawaii,5740695,97338,7094,31979,92615
+497,Marie Harris,2 Vera Place,Lillian Wagner,228 Hazelcrest Center,9/26/2013,22.48,$62718.01,Oklahoma,Iowa,9474706,76919,13586,76237,49160
+498,Thomas Bell,26275 Myrtle Pass,Christine Little,59429 Rowland Hill,1/31/2014,2.316,$89801.77,Illinois,North Carolina,4741320,78256,95430,46033,79747
+499,Edward Flores,6 Spenser Point,Carlos Hicks,3 Sherman Place,7/23/2014,16.345,$85623.94,Tennessee,New Hampshire,6664724,89940,85198,99070,40590
+500,Andrew Martinez,38705 Bobwhite Court,Terry Gardner,8 Manufacturers Circle,6/11/2014,10.928,$67997.04,Rhode Island,New Mexico,1333775,45029,34417,85914,87741
+501,Billy Richardson,7 Mendota Pass,Angela Cox,56177 Clemons Park,10/12/2013,50.202,$50910.12,New Hampshire,Wyoming,6597453,17140,91607,85486,8210
+502,Christine Griffin,9 Eagle Crest Parkway,Carlos Daniels,200 Clarendon Alley,9/17/2013,67.322,$8524.07,Kansas,Kentucky,3247657,82422,73334,96475,77594
+503,Jose Morales,69 Elgar Way,Jesse Boyd,47789 Manufacturers Hill,11/24/2013,52.105,$97084.78,California,Pennsylvania,9937354,54560,84022,6421,76306
+504,Tina Owens,0672 Elka Circle,Bobby Fisher,05 Graceland Drive,10/15/2013,8.935,$47460.03,Kentucky,New Hampshire,5539247,27619,30755,13561,82761
+505,Wayne Payne,3649 Valley Edge Plaza,Judith Gonzales,21 Summerview Way,4/20/2014,9.578,$63199.61,Minnesota,Texas,9992184,51630,82137,83337,50657
+506,Lisa Washington,8878 Cherokee Park,Diane Armstrong,50 Farwell Center,10/26/2013,74.581,$73891.96,Michigan,Alaska,5600624,65096,49800,50229,23667
+507,Michelle Kim,211 Golden Leaf Place,Shirley Franklin,35 Badeau Place,5/1/2014,94.832,$12520.23,Arizona,Georgia,235266,25910,66355,8682,62119
+508,Juan Peterson,5981 Helena Plaza,Margaret Howard,5924 Dakota Pass,8/30/2013,51.098,$69673.01,South Carolina,New Mexico,6780468,11108,10495,33337,6490
+509,Terry Wood,6271 Little Fleur Court,Deborah Carpenter,7963 Mesta Circle,11/24/2013,14.831,$93029.48,Ohio,Mississippi,3235712,67057,56687,59448,48228
+510,Anthony Phillips,5 Cherokee Terrace,Timothy Hicks,071 Debs Park,2/16/2014,65.27,$87681.02,South Dakota,Connecticut,2791380,59643,36830,62220,47280
+511,Stephanie Richards,12 Hallows Alley,Keith Long,51967 Laurel Pass,12/30/2013,73.049,$79255.37,Minnesota,Connecticut,2221499,39390,91860,40578,24238
+512,Jack Stevens,21 Magdeline Way,John Mcdonald,7495 Vermont Road,2/8/2014,54.791,$83522.40,South Carolina,Alabama,3748573,52400,53493,31252,24697
+513,Todd Spencer,71901 Anthes Point,Walter Pierce,25 Johnson Road,1/27/2014,45.46,$33393.44,Kansas,Wisconsin,6470994,1458,83119,79721,57810
+514,Catherine Collins,2 Memorial Junction,Gary Vasquez,78252 Ludington Hill,6/28/2014,28.959,$29724.02,Alaska,Pennsylvania,4598188,62287,38641,74971,44979
+515,Julia Weaver,53195 Gina Place,Charles Moreno,84 Summerview Hill,7/19/2014,73.78,$25705.06,Oklahoma,Georgia,977146,81719,71362,68930,2944
+516,Emily Wright,6 Express Avenue,Beverly Holmes,53 Grayhawk Park,1/1/2014,11.493,$92107.43,Idaho,Arizona,4598359,87558,7908,20200,17998
+517,Stephanie Alvarez,3 Anhalt Parkway,Terry Simpson,4 Menomonie Trail,3/28/2014,9.82,$82357.60,New York,Washington,8573916,38209,56608,81550,21354
+518,Amy Reyes,0 Lyons Lane,Sharon Ross,0299 Park Meadow Avenue,7/14/2014,76.59,$66831.24,Maine,Virginia,5632393,78055,23020,10950,96963
+519,Ralph Roberts,05 Summerview Terrace,Virginia Ray,879 Bowman Street,8/6/2013,19.302,$27014.29,Delaware,Tennessee,7102382,97373,93235,20523,72445
+520,Matthew Dunn,6 Holy Cross Junction,Laura Hicks,04 Cottonwood Alley,6/9/2014,8.278,$2503.62,Hawaii,Texas,7072143,11116,32783,85367,46522
+521,Paula Washington,312 Garrison Park,Christine Mills,35 Del Sol Trail,8/16/2013,56.522,$14383.56,New Hampshire,Washington,8346756,29096,41924,48441,47620
+522,Edward Berry,44 Buhler Trail,Christine Harris,473 Grayhawk Place,10/17/2013,25.458,$86335.97,Delaware,Louisiana,3494923,97510,63792,65105,93275
+523,Todd Cunningham,55 Continental Court,Jennifer Scott,531 Cody Hill,6/5/2014,66.084,$61245.67,Alabama,South Carolina,9480968,96658,80217,58713,1060
+524,Bruce Long,58 Straubel Junction,Jane Roberts,3 Bayside Crossing,7/21/2014,78.172,$32480.54,New Mexico,Utah,421486,25009,34976,96928,89028
+525,Eric White,0 Daystar Street,Judy Welch,71215 Northport Street,2/13/2014,72.285,$67114.97,Virginia,Idaho,3544411,75094,44518,56036,43779
+526,Joshua Wright,0618 Briar Crest Point,Denise Griffin,21 Norway Maple Street,1/4/2014,60.301,$72056.66,Montana,Massachusetts,4959129,20668,19559,86676,30969
+527,Donald Elliott,773 Sachs Street,Stephen Ray,910 Rieder Circle,7/14/2014,14.273,$55824.59,Michigan,North Carolina,6607775,896,9746,21350,20060
+528,Craig Burns,1 Lighthouse Bay Lane,Louise Ross,9 Waywood Avenue,2/13/2014,65.273,$7125.53,Washington,Connecticut,5073350,86964,11042,18513,50414
+529,Howard Snyder,4 Farragut Plaza,Judith Fuller,230 Memorial Court,6/8/2014,20.435,$83371.97,Michigan,North Dakota,6665710,76161,27886,65753,27578
+530,Kathryn Simpson,98 Golf View Drive,Sharon Torres,59084 Westend Point,7/26/2014,35.21,$853.93,South Dakota,Nevada,476793,70423,70917,98831,44030
+531,Ralph Carroll,3 Straubel Place,Elizabeth Harris,9 Fairview Pass,12/22/2013,15.94,$86917.34,Nevada,Tennessee,9860391,15608,74141,86127,93502
+532,Bonnie Franklin,3 Katie Drive,Clarence Peters,4641 Green Point,7/1/2014,11.288,$89866.01,South Dakota,Alabama,284355,59661,70676,4770,90197
+533,Jessica Payne,49846 Linden Court,Evelyn Ramos,8135 Rieder Circle,12/22/2013,41.991,$89998.08,Virginia,Alabama,725048,35396,82658,2000,12351
+534,Gary Sanchez,734 Fordem Court,Mark Green,38188 Chinook Crossing,4/7/2014,12.644,$96053.65,Colorado,New York,4103875,71913,56000,81944,15094
+535,Denise Bryant,585 Almo Pass,James Ramirez,65 Oak Avenue,7/13/2014,96.456,$37105.68,Mississippi,Nevada,2484262,26329,24255,20731,50119
+536,Todd Sanders,38674 Springview Park,Jessica Bell,0687 Blaine Way,10/2/2013,7.136,$22017.33,Massachusetts,California,3722160,51062,11412,27393,22062
+537,Kevin Sullivan,345 Larry Place,Annie Hernandez,944 Scofield Trail,5/27/2014,57.742,$37668.67,Ohio,Nebraska,4703622,8998,99365,38387,3608
+538,Russell Fuller,1 Melody Place,Linda Lawrence,5 Loeprich Lane,8/15/2013,8.383,$43490.36,Iowa,Illinois,857459,85638,44155,63183,51543
+539,Lawrence Lee,02 Oxford Way,Philip Miller,479 Forster Junction,6/22/2014,37.608,$43270.10,North Carolina,Idaho,9870297,56842,72139,10165,9485
+540,Jose Cox,34434 Gina Place,Mildred Campbell,3 Dixon Crossing,8/23/2013,68.601,$36428.05,Montana,North Dakota,1263314,8810,90074,53655,26882
+541,Lori Duncan,58815 Michigan Avenue,Lawrence Adams,5682 Monterey Drive,1/15/2014,59.114,$58750.59,Delaware,Virginia,9151095,19306,58462,72751,13348
+542,Christine Perkins,54570 Debs Avenue,Gerald Murphy,0 Lakeland Court,8/1/2014,62.826,$62804.31,Maine,Texas,6544041,76561,61871,68580,7741
+543,Jonathan Ramirez,152 Eggendart Pass,Samuel Elliott,7 Judy Lane,5/28/2014,17.392,$2660.24,Minnesota,Kansas,597523,59918,4283,88385,56225
+544,Christina Medina,5169 Bartelt Center,Nancy Bryant,02 Mayer Hill,11/14/2013,22.985,$43671.13,New Mexico,Oklahoma,744897,83188,52510,16662,43338
+545,Peter Rice,6600 Maryland Street,Albert Coleman,57 Lunder Street,10/12/2013,54.301,$901.56,Utah,Delaware,5413399,9895,98223,50110,59542
+546,Karen Bell,4453 Hoffman Park,Joan Romero,253 Meadow Valley Terrace,1/16/2014,54.071,$31850.41,Alaska,Connecticut,9471474,86583,14552,72344,7276
+547,Jason White,80 Birchwood Road,Barbara Garza,9145 Banding Lane,9/1/2013,15.836,$32292.38,Iowa,Maryland,8719008,25291,62182,71306,92818
+548,Norma Scott,71 Waxwing Trail,Annie Moore,116 Vermont Hill,8/3/2013,14.493,$74792.12,Maine,Idaho,3726237,36034,83385,20692,22898
+549,Judith Larson,4916 Harper Hill,Judy Montgomery,865 Hooker Lane,9/15/2013,74.914,$71313.20,Montana,Michigan,6556535,29781,20045,79990,24890
+550,Jason Bailey,2655 West Circle,Terry West,5070 Continental Point,8/2/2013,26.85,$96680.28,New Hampshire,Arkansas,2859522,99717,69952,8873,17425
+551,Doris Burns,47432 Rockefeller Pass,Rebecca Morris,79633 Tennessee Road,11/5/2013,64.146,$61489.18,Michigan,Tennessee,3405433,470,46375,5557,87754
+552,Jesse Welch,0215 Kings Center,James Hart,1067 Hanson Avenue,12/5/2013,0.334,$11665.18,Nebraska,Washington,4506054,21473,96210,78412,6033
+553,Helen Rogers,4799 Waywood Trail,Theresa Reyes,3761 Meadow Vale Circle,3/16/2014,8.59,$57483.84,Georgia,California,216258,92233,25473,79204,89869
+554,Antonio Turner,684 Spohn Park,Clarence Gibson,23 West Parkway,7/2/2014,42.653,$84414.42,Maryland,Washington,3068241,11669,78655,48894,58719
+555,Lawrence Stone,31 Pawling Plaza,Fred Kelly,55925 Talisman Place,8/12/2014,1.906,$27179.65,Kentucky,Delaware,1620873,62590,28484,458,96163
+556,Diane Thomas,5080 Spohn Plaza,Diane Kelley,325 Mifflin Trail,10/15/2013,57.416,$62393.40,Idaho,Massachusetts,3315441,26859,14888,22937,3885
+557,Helen Freeman,88659 7th Court,Alan Sims,4 Mesta Plaza,10/30/2013,38.701,$4402.10,Pennsylvania,Idaho,6392955,99720,6185,96341,11554
+558,Eugene Day,900 Fuller Way,Annie Riley,46899 Badeau Circle,10/27/2013,96.121,$48826.06,Kentucky,New Hampshire,8066876,80552,14161,9981,72639
+559,Daniel Peters,962 Stuart Center,Marilyn Kim,8798 Crowley Crossing,12/16/2013,46.895,$11660.22,Wisconsin,Louisiana,1542204,92996,15935,29330,55069
+560,Wanda Dixon,91120 Texas Trail,Benjamin Harvey,72 Annamark Hill,12/19/2013,76.526,$13079.88,North Dakota,New York,7710190,64694,33933,50379,14610
+561,Edward Wheeler,86782 Valley Edge Plaza,Ruby Webb,6 Ludington Parkway,2/20/2014,96.118,$74257.26,New Jersey,Texas,2234596,92832,24238,61230,17396
+562,Joseph Garza,60575 4th Avenue,Jessica Bradley,352 Saint Paul Junction,5/25/2014,27.679,$24534.69,Illinois,Alaska,6472800,94855,34126,5498,49699
+563,Ryan Boyd,22 Anthes Crossing,Joe Montgomery,893 Summer Ridge Point,7/16/2014,89.373,$41489.48,Texas,New Hampshire,7592924,67166,33138,92245,88044
+564,Marie Ferguson,1 Summer Ridge Place,Irene Willis,6984 Tennessee Point,5/29/2014,47.706,$70816.29,Michigan,Massachusetts,1736683,23496,1178,93395,37652
+565,Martin Fox,5 Messerschmidt Road,Steve Grant,5 Utah Street,2/27/2014,87.524,$16007.89,South Carolina,New York,1872697,69150,3389,88295,33527
+566,Cynthia Mills,06 Vera Plaza,Joseph Rogers,92 Bay Drive,11/8/2013,82.537,$61512.06,Michigan,Vermont,6356488,27856,60729,81184,90240
+567,Bobby Foster,813 Hagan Trail,Stephanie Sims,2 Steensland Park,2/4/2014,78.982,$20833.01,South Carolina,Alabama,4825892,30444,5578,1713,87260
+568,Joan Murphy,0801 Northwestern Alley,Donna Ellis,843 Westerfield Drive,11/12/2013,70.644,$88506.33,Minnesota,Connecticut,2703061,29020,82162,91124,84839
+569,Joseph Rose,388 Acker Court,Virginia Austin,8 Rowland Avenue,11/6/2013,96.268,$73358.06,New Hampshire,New Hampshire,1652495,93979,37211,13886,4378
+570,Willie Kelley,6409 Forster Court,George Sanders,760 Sheridan Circle,9/8/2013,88.704,$10213.47,Wisconsin,Vermont,1461670,90354,27438,74528,51870
+571,Jason Chavez,199 Grover Center,Mark Harper,8117 Heffernan Lane,7/16/2014,4.554,$21000.72,Alabama,Louisiana,8386221,64526,20694,74453,28692
+572,James Hicks,1 Trailsway Park,Willie Butler,02 Cascade Crossing,12/11/2013,12.466,$8556.33,Wisconsin,Oregon,4573291,58754,26156,46706,4580
+573,Antonio Welch,968 Karstens Drive,Craig Elliott,54 Waubesa Street,11/6/2013,76.619,$41430.55,South Dakota,Virginia,136385,96270,11919,78060,65673
+574,Judith Romero,5493 Springs Drive,Shirley Hill,07458 Esker Lane,11/14/2013,47.43,$10023.75,South Dakota,California,1515954,68744,77687,51494,59551
+575,Joan Berry,16 Derek Place,Doris Wood,0 Farragut Center,4/14/2014,88.494,$81152.03,Delaware,Georgia,6708586,43989,6014,25691,57222
+576,Ryan Gordon,65 Nobel Trail,Ann Shaw,04422 Thackeray Street,3/26/2014,16.015,$94601.70,Connecticut,Minnesota,6808317,12899,70411,71100,11182
+577,Larry Cunningham,457 Tennessee Street,Jean Lane,403 Arkansas Pass,8/6/2014,7.961,$26362.40,Idaho,Montana,1645485,69331,67690,54586,48775
+578,Jennifer Freeman,7100 Cambridge Avenue,Ann Bennett,1 Carpenter Terrace,12/3/2013,59.576,$71882.44,Michigan,Maine,479481,88918,1957,96540,81032
+579,Marie Davis,099 Melby Street,Paula Snyder,8 Russell Terrace,4/3/2014,61.104,$7239.03,Mississippi,Washington,2658237,63536,21906,34243,36602
+580,Craig Duncan,3 Fuller Circle,Diane Mason,0 Carioca Drive,9/16/2013,96.994,$13161.68,Indiana,South Dakota,5339384,82771,93812,49090,69243
+581,Lois Morales,5 Bultman Court,Brandon Kelley,4735 North Trail,5/11/2014,72.394,$44892.18,Delaware,Oregon,2669200,24426,58866,83172,60826
+582,Donna Phillips,24885 Jana Terrace,Marie Young,0 Buena Vista Trail,5/5/2014,13.832,$27496.69,Tennessee,Nevada,3736642,54196,88192,45517,47733
+583,Phyllis Johnston,2 Erie Avenue,Peter Welch,91 Lakewood Gardens Street,7/26/2014,56.7,$20292.05,Connecticut,Alabama,3823141,31909,42239,19441,42247
+584,Adam Young,9984 Nelson Avenue,Julia Armstrong,0236 Summer Ridge Plaza,9/17/2013,6.137,$20531.67,Hawaii,Georgia,2504161,18000,92539,54446,3268
+585,Stephanie Howard,56 Swallow Hill,Jean Stanley,559 Haas Center,6/29/2014,10.699,$51539.18,Oregon,Vermont,2025777,20816,33096,60163,62132
+586,Julia Lawrence,743 Luster Place,Kimberly Henry,0 Fallview Road,6/19/2014,47.141,$76950.86,Maine,Utah,5386497,80580,2342,5642,64967
+587,Larry Robertson,5 Corscot Trail,Nicholas Little,14363 Bunting Junction,12/25/2013,73.23,$77971.63,Pennsylvania,Utah,5770837,85840,65587,16133,91085
+588,Jason Reyes,2 Mesta Road,Jerry Clark,77 Oriole Hill,7/31/2014,31.751,$81945.35,Minnesota,Alaska,1948834,72311,9705,62748,56923
+589,Irene Carroll,7 Carpenter Point,Jimmy Turner,9433 Straubel Crossing,4/24/2014,47.911,$13182.52,Alabama,Connecticut,406991,36836,95144,5539,62255
+590,Amanda Mendoza,720 Stang Alley,Jose Jordan,8 Coolidge Place,6/26/2014,50.909,$47713.74,California,Indiana,2649120,29602,46270,51744,77801
+591,Norma Stevens,4703 4th Street,Alan Ramirez,0 Raven Alley,6/18/2014,98.692,$3254.61,Washington,Michigan,8159588,20410,38118,28205,41577
+592,Patricia Turner,11935 Jana Center,Willie Bowman,7 Clyde Gallagher Center,3/12/2014,67.478,$95427.50,Delaware,Tennessee,4866856,72076,46017,99707,19142
+593,Scott Campbell,44 Mayfield Plaza,Peter Crawford,3 Northport Terrace,1/31/2014,12.069,$75487.72,South Dakota,Maine,6536706,91875,10517,54036,19109
+594,Albert Garrett,9 Jana Circle,Jose Hall,50 Lerdahl Street,9/16/2013,75.417,$16751.61,Maine,West Virginia,6890279,94330,85019,97483,50718
+595,Mildred Boyd,60 Springs Hill,Lisa Hunter,7 Forest Run Crossing,5/14/2014,27.566,$11927.67,Idaho,Indiana,9244701,83488,95855,5132,11265
+596,Martha Andrews,2 Manitowish Hill,Sarah Burke,54045 Johnson Drive,4/19/2014,81.7,$22240.13,Wyoming,Vermont,7731692,19039,60102,46795,77267
+597,Ralph Hernandez,2350 Alpine Alley,Joe Crawford,9206 Parkside Trail,7/25/2014,60.767,$86090.31,New Jersey,Missouri,2016432,68567,5488,3043,54857
+598,Judy Dunn,63 Mallard Plaza,Clarence Ellis,627 Debra Center,6/12/2014,44.654,$32045.20,North Carolina,California,2530421,21195,55881,54589,8772
+599,Earl Taylor,23 Bonner Lane,Patricia Sanders,7 Vernon Terrace,6/10/2014,69.942,$53822.34,Georgia,California,6397710,41079,20572,36799,41896
+600,Jennifer Thompson,2 Kings Point,Keith Rose,71467 Kensington Place,8/16/2013,76.355,$44608.29,North Dakota,Vermont,2434385,30154,73364,87613,50529
+601,Rebecca Burton,556 Coolidge Crossing,Alice Hunt,163 Division Crossing,2/25/2014,63.322,$33828.22,Oregon,Wisconsin,272535,90676,44702,20453,30482
+602,Marilyn Banks,47810 Fairview Center,Roy Schmidt,84947 Corscot Park,8/31/2013,60.014,$78624.51,Kentucky,New Jersey,9061569,81039,80976,422,79516
+603,Shirley Walker,19011 Monument Way,Ruby Harris,3406 3rd Trail,9/8/2013,77.08,$40037.66,Hawaii,Massachusetts,1962141,57979,40466,68151,93633
+604,Jesse Bryant,5 Susan Way,Betty Chapman,0 Cordelia Lane,11/3/2013,96.791,$40631.20,North Dakota,Nevada,3356454,97157,59913,46680,22976
+605,Jessica Fox,8003 Browning Crossing,Louis Torres,410 Sycamore Place,9/16/2013,89.704,$77063.90,South Dakota,Florida,8659006,46396,93919,73307,18167
+606,Nicholas Bennett,65 Almo Point,Joseph Dean,7 Ronald Regan Trail,11/5/2013,77.937,$27209.09,Arkansas,Louisiana,2158631,59399,52534,78382,40750
+607,Marie Shaw,8 Chinook Terrace,Dorothy Hernandez,75830 Shoshone Junction,6/11/2014,32.778,$57545.53,Alaska,Alabama,3306434,55021,33013,89498,75134
+608,Teresa Wheeler,74652 Ludington Pass,Jean Warren,4636 Pond Trail,11/20/2013,71.228,$7457.58,South Carolina,Colorado,4688048,63785,3311,29101,11059
+609,Larry Mccoy,3717 Pepper Wood Avenue,Wanda Hunter,1 Colorado Center,7/12/2014,56.193,$47782.02,Minnesota,South Carolina,2630027,18095,59920,35004,26913
+610,Helen Powell,92572 Walton Street,Irene Baker,4 Nova Pass,6/6/2014,87.415,$82691.15,Kansas,Pennsylvania,679020,28149,32560,27971,56733
+611,Wayne Bailey,53397 Heffernan Hill,Denise Richardson,7900 North Park,12/24/2013,58.045,$64757.65,Idaho,Idaho,1435522,90956,27619,61831,57172
+612,Catherine Gray,71 Browning Junction,Chris Myers,12860 Corben Road,9/18/2013,43.222,$22923.04,Minnesota,South Carolina,4951920,67840,54817,3733,53687
+613,Ralph Jordan,073 Manufacturers Place,Brian Montgomery,54 Jackson Park,9/4/2013,62.256,$263.53,Wisconsin,Illinois,15408,89793,96486,58622,77163
+614,Teresa Hernandez,09789 Holy Cross Parkway,Charles Wagner,8 Grover Plaza,3/27/2014,54.806,$79836.28,West Virginia,Nevada,6413803,25071,35651,45449,87423
+615,Alice Little,1495 Vidon Point,Sandra Richards,64553 Union Parkway,6/28/2014,19.179,$73540.23,Iowa,New Jersey,965928,79153,38188,70806,39312
+616,Roger Holmes,7557 Prairie Rose Place,Maria Nelson,6 Russell Plaza,12/31/2013,53.016,$64688.16,New Jersey,Illinois,467662,78328,89127,97806,25273
+617,Gloria Robinson,18 Haas Point,Juan Bailey,05752 Summer Ridge Terrace,7/17/2014,35.045,$6965.72,Oregon,Minnesota,9905390,68120,25455,30259,35884
+618,Dorothy Oliver,744 Judy Terrace,John Hamilton,8 Surrey Center,10/18/2013,94.185,$65051.17,Alaska,Wyoming,4160657,82304,92913,511,21688
+619,Theresa Porter,68611 Roth Place,Rebecca Hicks,12215 Kingsford Circle,10/25/2013,40.489,$29995.10,Maryland,Minnesota,2567255,81314,74171,6879,79541
+620,Patricia Hicks,4294 Hooker Road,Kimberly Duncan,1 Hansons Avenue,4/27/2014,75.607,$33850.79,North Dakota,Louisiana,717149,18445,4363,43238,95941
+621,Irene Simmons,5 Bashford Park,Sandra Rodriguez,85428 Weeping Birch Street,10/15/2013,93.387,$28758.43,Mississippi,Delaware,3468737,45539,53057,16994,16443
+622,Howard Ryan,693 Lillian Court,Gregory Rodriguez,785 Oriole Parkway,6/9/2014,41.115,$59393.84,New Hampshire,Illinois,7092433,91207,59961,57108,67606
+623,Michael Alexander,29 Jenifer Court,Ronald Owens,4 Golf Trail,10/26/2013,27.959,$16193.11,Kansas,Vermont,1450582,47371,98105,75714,90060
+624,Emily Martin,9 Butterfield Road,Terry Carpenter,631 Wayridge Terrace,4/11/2014,92.314,$18465.85,Iowa,Montana,7257735,90058,97625,72023,12192
+625,Mildred Russell,7 Esker Terrace,Nicole Carpenter,17 Sage Place,4/23/2014,59.308,$59162.86,New Jersey,New York,3555809,51949,38920,53713,75269
+626,Teresa Jacobs,2060 2nd Way,Aaron Johnston,2566 Lakewood Gardens Avenue,6/14/2014,9.597,$9355.50,Kentucky,Hawaii,276273,45179,88613,76288,80940
+627,Pamela Cox,76 Oakridge Trail,Walter Cruz,228 2nd Court,8/9/2014,54.024,$96946.34,Maryland,Washington,8803765,21800,9896,9164,35644
+628,Earl Warren,61283 Bobwhite Park,Catherine Franklin,9 Grim Center,3/13/2014,52.687,$85283.95,Alaska,Connecticut,8882658,83301,17749,44258,34583
+629,Lisa Ferguson,829 Jenifer Street,William Willis,58 Hermina Hill,11/9/2013,53.515,$17012.14,Massachusetts,Virginia,1880446,43436,57700,49269,30666
+630,Mary Fox,226 Manufacturers Parkway,Jonathan Mills,0318 Drewry Place,5/24/2014,19.408,$66176.78,Arizona,Tennessee,1544714,50129,84389,58504,88290
+631,Craig Jacobs,63 Beilfuss Pass,Richard Arnold,9113 Gina Junction,10/17/2013,20.708,$46682.21,Maryland,Virginia,3924893,72836,90598,13249,72884
+632,Jacqueline Taylor,84959 Mccormick Way,Carol Hansen,49 Kings Court,6/13/2014,58.794,$75867.88,Illinois,Georgia,6012644,94965,10423,27676,58040
+633,Stephanie Bell,759 Union Place,Dorothy Scott,063 Bultman Lane,11/19/2013,24.147,$33983.22,Florida,Alaska,6458088,23092,60390,44066,66257
+634,Christine Ramos,87547 Alpine Crossing,Russell Alvarez,4 Wayridge Hill,9/12/2013,42.544,$6445.60,Delaware,New Jersey,6974544,12713,71692,8201,54431
+635,Christopher Patterson,92836 Muir Terrace,Lori Sanders,27001 Armistice Court,8/6/2014,86.306,$3640.95,Minnesota,Kentucky,8219801,37576,95087,95020,41873
+636,Chris Wilson,6986 Amoth Avenue,Nicholas Lee,338 Hollow Ridge Point,1/3/2014,10.994,$63506.58,Missouri,Arkansas,6304323,2800,89496,73733,59184
+637,Julie Stewart,41185 Marquette Center,Anne Elliott,6 Lakeland Avenue,10/2/2013,32.867,$60178.57,New York,Arizona,1097361,15539,60166,66127,90248
+638,Barbara Warren,1480 Valley Edge Point,Janice Wallace,44 Stoughton Center,2/10/2014,76.501,$23975.72,Nebraska,Hawaii,4376666,79025,31867,59953,36515
+639,Ronald Hughes,445 Beilfuss Crossing,Betty Wright,253 Dexter Street,1/20/2014,73.641,$85149.36,Massachusetts,Iowa,7856693,60519,53656,79393,74060
+640,Jason Nguyen,9120 Sunnyside Center,Mark Gonzalez,6247 Westend Plaza,11/28/2013,68.723,$15247.39,Mississippi,Arizona,1861007,43162,20686,50735,42760
+641,Gary Richardson,9255 Walton Drive,Rachel Greene,85 Crownhardt Street,9/30/2013,37.693,$79146.70,Illinois,Wisconsin,3725869,69507,77183,84472,76403
+642,Irene Torres,5229 Corry Parkway,Shawn Bishop,70 Talisman Parkway,1/26/2014,92.256,$21159.83,Florida,Alabama,5463518,71385,31026,575,98326
+643,Doris Richardson,59236 Jackson Lane,Wanda Ramirez,4 Bunker Hill Lane,4/5/2014,16.58,$76990.29,Georgia,Georgia,7552962,71492,83047,10662,18176
+644,Carlos Henry,5116 Anderson Crossing,Bruce Tucker,242 Main Crossing,1/26/2014,88.438,$68567.58,Oregon,Tennessee,2826603,68127,44320,21879,14729
+645,Roy Howard,3 Susan Lane,Jerry George,7 Ohio Road,5/5/2014,50.226,$55638.07,Missouri,New Mexico,5783943,54666,58094,77828,84098
+646,Brandon Williams,7 Truax Center,Lori Cooper,52823 Barnett Parkway,12/17/2013,83.527,$91232.01,Idaho,Ohio,4771999,8518,30648,83694,93823
+647,Timothy Robertson,0 Dryden Point,Jason Cook,17 Nova Terrace,8/12/2013,72.551,$51010.18,New Hampshire,Delaware,5251440,31972,91375,59190,32451
+648,Annie Gordon,8906 Paget Plaza,Emily Jenkins,137 Basil Plaza,4/7/2014,4.056,$24069.35,Delaware,Oklahoma,3527945,80473,97850,89827,50593
+649,Jeffrey Taylor,0856 Muir Crossing,Dennis Bryant,052 Magdeline Drive,3/12/2014,23.119,$43073.15,Arizona,Wisconsin,4911647,5994,75557,40873,66532
+650,Alice Hanson,0 Carpenter Pass,Anna Welch,65 Bluejay Street,12/8/2013,68.89,$91210.43,Delaware,New Mexico,4928276,29210,79706,22201,91621
+651,Larry Gilbert,20 Service Place,Ann Wilson,438 Sheridan Lane,8/20/2013,13.766,$65096.71,Washington,Alaska,5188758,90290,97706,33885,12757
+652,Teresa Brown,2522 Sage Plaza,Tina Little,4 Upham Circle,12/30/2013,18.058,$72452.98,Montana,Hawaii,1714463,30648,8853,36384,26396
+653,Paul Lane,8 Scofield Place,Marie Snyder,1198 Melvin Avenue,2/14/2014,54.112,$73036.19,North Carolina,Iowa,3589390,5865,11614,69640,21069
+654,Rose Frazier,659 Dovetail Center,Teresa Hawkins,2 Sherman Road,6/7/2014,84.643,$36512.81,Arizona,Virginia,3021287,43170,50530,49844,90704
+655,Kelly Simmons,21507 Fair Oaks Parkway,David Holmes,48 Debs Crossing,8/25/2013,17.929,$71387.56,Kentucky,Oregon,4609871,12527,14219,78254,12222
+656,Denise Stevens,4 Rowland Alley,Virginia Price,3 Granby Circle,12/17/2013,2.967,$33764.95,Florida,Maine,4632948,16510,94008,18008,7799
+657,Ashley Ruiz,8 Anhalt Pass,Amanda Meyer,9995 Forest Dale Avenue,10/22/2013,19.665,$15371.96,Utah,Wisconsin,2683781,60299,44629,93921,72063
+658,Robert Rose,10873 Lukken Lane,Rachel Vasquez,951 Crescent Oaks Point,3/15/2014,60.721,$31946.27,Louisiana,Massachusetts,1487275,56396,47841,34736,40750
+659,Ann Wright,33734 Anhalt Road,Barbara Chavez,735 Dahle Junction,3/9/2014,20.825,$95829.31,South Dakota,Vermont,2312604,1218,50112,65590,88570
+660,Joyce Gomez,1476 Ludington Lane,Joan Cunningham,084 Barby Park,9/3/2013,73.584,$14072.87,Texas,Hawaii,1388423,6646,5064,80355,83938
+661,Bobby Arnold,22266 Clyde Gallagher Alley,Thomas Ellis,93 Stuart Place,3/7/2014,1.765,$87123.45,Utah,Nebraska,7989788,86427,88691,89294,28928
+662,Brian Stanley,8 Calypso Crossing,Mark Gibson,069 Corscot Road,3/10/2014,65.22,$65563.31,Louisiana,Idaho,3434956,15582,86388,44306,82412
+663,Fred Jacobs,6753 Karstens Point,Peter Arnold,80 Golf Course Hill,2/11/2014,24.401,$27182.01,Minnesota,California,2273441,44806,20900,87659,4255
+664,Martha Day,2351 Barnett Park,Nancy Lee,69573 Dunning Alley,3/1/2014,67.905,$9449.95,Arkansas,Arkansas,6445099,38804,64102,89028,48504
+665,Johnny Schmidt,82024 Del Sol Plaza,Lawrence Owens,1 Jana Drive,6/7/2014,2.347,$48362.56,Connecticut,Montana,376438,21107,36537,95870,49523
+666,Jason Gray,1098 Russell Crossing,Phillip Alexander,269 Springview Lane,11/14/2013,99.834,$95807.97,Minnesota,Nebraska,9769793,29198,15130,15871,45640
+667,Philip Garrett,78826 Calypso Place,Jeffrey Taylor,412 Del Sol Crossing,4/26/2014,53.355,$5669.61,West Virginia,North Dakota,8940094,18302,62876,9766,52735
+668,Aaron Sanchez,3900 Garrison Alley,Joe Gibson,058 Rusk Terrace,9/2/2013,97.19,$65815.34,North Dakota,Texas,4696144,16809,55191,11288,25463
+669,James Nguyen,9981 Lyons Road,Theresa Dixon,095 Texas Parkway,1/31/2014,65.314,$79555.61,Vermont,New York,6259446,36607,92166,31050,38565
+670,Kimberly Morales,28 Village Green Pass,Fred Meyer,1473 1st Lane,9/28/2013,62.184,$65614.33,Washington,Utah,1036103,87364,58657,52373,98623
+671,Teresa Stewart,30955 Hudson Terrace,Douglas Black,061 Northridge Crossing,4/30/2014,53.704,$85950.97,Arizona,Wisconsin,328881,83576,23516,10501,506
+672,Susan Rose,3 Redwing Crossing,Albert Ortiz,33264 Cottonwood Court,5/14/2014,26.429,$55030.60,Michigan,North Dakota,4956514,69659,30545,47433,22657
+673,Ruby Freeman,21 Bonner Junction,Annie Gonzalez,024 Melody Road,9/29/2013,96.186,$63444.07,Idaho,Kentucky,5456200,82620,38446,41697,82106
+674,Craig Riley,157 Northport Point,Gregory Smith,7763 Fremont Parkway,5/30/2014,0.98,$51265.22,Texas,California,4874057,15649,19567,227,77932
+675,Shirley Wheeler,0 Fisk Place,Heather Hansen,220 Caliangt Place,8/11/2014,74.094,$6035.00,Indiana,Virginia,5721803,1972,90623,73204,43550
+676,Rachel Dunn,0 Maple Wood Circle,Marie Ortiz,34313 Jenifer Center,7/17/2014,94.783,$80278.85,Oregon,Alaska,8785877,49645,62944,23367,99168
+677,Keith Richardson,84968 Welch Crossing,Martha Dixon,81 Mosinee Place,8/16/2013,44.581,$2872.69,Virginia,Arizona,4229945,52446,97966,97401,83547
+678,Catherine Ramirez,642 Toban Junction,Janet Pierce,41 Dovetail Court,11/25/2013,28.38,$12440.30,Washington,Mississippi,7072325,5925,27978,33546,6556
+679,Aaron Burton,9 Bay Plaza,James Hansen,70 Fordem Way,8/26/2013,20.27,$68216.17,Texas,Montana,8072665,24924,60153,73035,51059
+680,Janet Garrett,68 3rd Trail,Walter Ryan,6103 Union Way,7/4/2014,86.769,$9960.98,Illinois,Washington,3448078,9802,2529,50515,34995
+681,Heather Weaver,4 Debs Pass,Louis Phillips,181 Duke Center,1/13/2014,44.759,$5390.21,Arizona,Hawaii,3322341,28695,38979,4796,95077
+682,Jerry Grant,69309 Sutteridge Alley,Adam Nichols,8821 Schiller Drive,4/6/2014,90.621,$3772.04,New Hampshire,Alabama,3907421,12256,88156,78971,20690
+683,Ronald Edwards,534 Annamark Hill,Carol Peters,05 Straubel Center,12/27/2013,94.606,$29123.00,Vermont,Wisconsin,7101033,40449,56241,13045,81965
+684,Denise Fisher,34717 Rieder Place,Judy Griffin,5116 Troy Junction,1/11/2014,37.302,$87043.89,West Virginia,New Mexico,6287566,1048,11459,47283,30311
+685,Betty Thomas,8 Tennyson Pass,Alan King,14 Valley Edge Lane,3/23/2014,18.196,$85742.21,West Virginia,Ohio,2748671,8178,89194,40180,71090
+686,Betty Harris,33 Pleasure Alley,Eugene Washington,7108 Londonderry Alley,6/22/2014,40.751,$9495.54,California,Illinois,6622471,2185,71938,20433,99317
+687,Eric Carter,853 Schurz Lane,Kimberly Morgan,46516 Little Fleur Junction,4/26/2014,54.324,$52452.16,Wisconsin,North Dakota,570213,76964,96588,74822,74754
+688,Donald Phillips,97 Dwight Center,Earl Hamilton,75 Bluestem Way,5/22/2014,14.067,$85098.10,South Dakota,North Dakota,3421682,57463,90586,20486,24868
+689,Kathryn Hart,19 Farragut Road,Martin Brown,966 La Follette Pass,6/25/2014,89.391,$39457.88,Oklahoma,Iowa,4704364,5239,56666,49088,36512
+690,Beverly Diaz,08 Cordelia Street,John Walker,23421 Monterey Street,7/31/2014,88.032,$51676.45,Arizona,Iowa,2020987,16632,84134,56924,39159
+691,Louis James,24 Ilene Park,Susan Gilbert,2339 Sloan Court,3/20/2014,54.12,$98258.89,Florida,Virginia,6297936,64916,91906,46634,92700
+692,Donald Mason,1513 Nancy Center,Sarah Lewis,87050 Luster Park,9/30/2013,52.515,$58737.45,Connecticut,Delaware,5846754,87420,10790,28043,48690
+693,Richard Gordon,487 Heffernan Crossing,Irene Schmidt,58715 Fulton Plaza,8/31/2013,17.963,$52004.03,Nevada,Arkansas,3818958,72032,93235,65028,98049
+694,Jose Young,52 Dayton Avenue,Kathryn Jones,7 Sommers Terrace,6/18/2014,25.644,$26663.13,Alaska,Vermont,9829514,57444,12004,31338,6824
+695,Kathleen Watson,8 Delladonna Circle,Victor Roberts,0 Mccormick Pass,4/2/2014,1.465,$49090.57,Alabama,Wisconsin,1563875,8285,21690,35429,8525
+696,Carlos Edwards,9 Muir Crossing,Marilyn Bryant,80394 Arapahoe Way,3/9/2014,24.501,$78389.95,Nebraska,Pennsylvania,3192260,79082,41472,14264,76460
+697,Eugene Murphy,80060 Thierer Lane,George Day,56 Fremont Trail,1/12/2014,37.458,$15329.19,Tennessee,Maryland,455217,32935,9455,76132,94417
+698,Dennis Williams,8103 Steensland Park,Ernest Price,2027 Eagan Place,10/7/2013,89.209,$45527.22,Pennsylvania,Missouri,4234262,6075,97270,45492,76835
+699,Kenneth Reed,5640 Hansons Point,Larry Owens,1 Transport Plaza,8/7/2013,93.163,$23224.30,South Carolina,Alabama,2616414,79955,93756,80771,22656
+700,Ruby Lopez,7730 Hansons Alley,Sandra Clark,42838 Express Pass,3/4/2014,12.6,$59922.05,West Virginia,Delaware,5819942,37303,78445,93310,72838
+701,Randy Harris,80160 Meadow Valley Way,Sarah Austin,8341 Bluestem Pass,5/16/2014,93.234,$53349.61,Washington,North Carolina,7571256,30945,63979,943,56607
+702,Larry Butler,6 Delladonna Point,Roy Bryant,73184 Twin Pines Court,5/12/2014,76.146,$25718.16,Louisiana,Nebraska,4446073,88402,50668,86643,3671
+703,Louise Mccoy,204 Hudson Circle,Gary Reid,82 Crescent Oaks Road,10/5/2013,35.621,$73615.90,Pennsylvania,Arizona,5132162,79456,80555,25045,10496
+704,Adam Henry,50 Kingsford Park,Kathleen Fuller,6865 Portage Center,11/11/2013,17.105,$93273.79,Indiana,Utah,1157164,94990,66227,30419,13579
+705,Gerald Cooper,5665 Forest Run Lane,Wayne Reynolds,21846 Heath Court,4/20/2014,93.951,$2388.07,Maryland,Delaware,6828727,1127,39117,14584,77242
+706,Jane Berry,7 West Place,Timothy Long,49514 Heffernan Street,7/17/2014,60.926,$46534.77,Arizona,Michigan,9811958,35168,9919,53403,61525
+707,Dorothy Jones,6543 Southridge Court,Angela Young,8 Spohn Place,5/5/2014,29.932,$45784.19,Maine,Alabama,5363586,12728,61506,54355,63563
+708,Virginia Ellis,224 Barnett Drive,Laura Richardson,365 Independence Drive,7/2/2014,89.079,$15974.89,Idaho,Oregon,8453582,28121,55602,39149,2835
+709,Phillip Ward,3 Kim Place,Sara Harrison,22 Transport Avenue,12/4/2013,64.409,$50885.54,Maine,New York,217547,72501,32995,15970,87346
+710,Amanda Morgan,355 Manitowish Circle,Barbara Coleman,95216 Forest Dale Court,7/18/2014,49.569,$83938.84,California,Maine,2847482,49491,10546,29359,41287
+711,Antonio Pierce,9697 Miller Way,Paul Payne,783 Carpenter Drive,12/7/2013,31.733,$56940.50,West Virginia,Maine,9290903,40011,4388,2039,4855
+712,Donna West,51799 Ryan Hill,Ashley Murray,8006 Lakewood Drive,1/5/2014,24.102,$89837.22,Oklahoma,Utah,3979932,37423,35427,32511,44721
+713,Ryan Ramos,5 Eastwood Terrace,Cheryl Duncan,34093 Oak Valley Alley,3/12/2014,26.996,$21585.85,Illinois,Utah,5992655,11928,37746,29756,77047
+714,Judith Garza,655 New Castle Trail,Walter Price,98 Macpherson Point,11/4/2013,61.266,$73618.15,Montana,North Dakota,7871703,59268,28322,59749,32270
+715,Janet Grant,110 Derek Trail,Emily Gilbert,05611 Talmadge Trail,10/15/2013,87.084,$27005.18,Massachusetts,North Carolina,8361284,35803,98254,59736,96748
+716,Thomas Jones,74 Summerview Point,Andrew Alexander,4 Linden Park,5/26/2014,7.273,$80727.78,Iowa,Rhode Island,7661668,75793,96794,29710,37152
+717,Albert Roberts,8195 Pankratz Circle,Jerry Wallace,5569 Riverside Street,10/6/2013,59.446,$31450.34,South Carolina,Maryland,2534907,48837,95125,81237,62111
+718,Anthony Dean,789 Holy Cross Park,Marie Lewis,7464 Springview Road,9/4/2013,16.7,$46414.08,Idaho,Wyoming,5592734,23334,66903,80062,76943
+719,Craig Bennett,79 Butternut Junction,Howard Torres,004 Dayton Crossing,10/6/2013,40.431,$17252.24,Colorado,Kansas,1859106,60568,45491,13543,27740
+720,Nicole Lewis,39084 Springs Junction,Jacqueline Henderson,7867 Hayes Circle,6/23/2014,0.386,$56236.28,South Carolina,North Carolina,9154163,18731,41362,95036,26128
+721,Beverly Murray,4896 Elgar Court,Kimberly Lopez,0 Michigan Hill,8/31/2013,75.023,$41175.87,New Hampshire,Pennsylvania,5713327,22361,22154,31346,16658
+722,Samuel Welch,1 Rowland Point,Rachel Gordon,5 Luster Crossing,11/8/2013,31.938,$77991.64,Rhode Island,Massachusetts,200333,89227,1869,18174,31690
+723,Bonnie Ruiz,742 Sunfield Terrace,Elizabeth Chavez,756 Vernon Place,10/9/2013,82.025,$66761.64,Alabama,Ohio,7587969,51223,57918,32890,57433
+724,Janice Reid,7860 Myrtle Pass,Mary Burton,7234 Erie Lane,3/28/2014,37.435,$68023.31,Vermont,North Carolina,1559959,66701,46742,16142,20988
+725,Gloria Walker,5653 Waubesa Trail,James Sanders,3 Declaration Terrace,4/25/2014,70.23,$85077.67,Nevada,Arkansas,6264122,82030,77028,154,97941
+726,Louise Welch,20 Lunder Circle,Russell Parker,26306 Harper Drive,3/25/2014,90.012,$30464.53,Iowa,New Hampshire,172407,75866,887,33190,12077
+727,Anne Franklin,4610 Northwestern Terrace,Kathryn Welch,92263 Blue Bill Park Terrace,8/22/2013,99.494,$21597.60,Maine,Minnesota,6590785,70844,495,53544,66210
+728,Lisa Crawford,831 2nd Way,David Griffin,7330 Oriole Plaza,6/30/2014,54.515,$9251.77,California,Nebraska,2328659,72407,57966,24195,49898
+729,Gary Hudson,1 Prairieview Parkway,Kathryn Flores,40245 Bobwhite Plaza,4/7/2014,18.677,$48373.11,Indiana,Louisiana,1576807,35268,1786,44234,42665
+730,Louis Ray,17356 Roxbury Lane,Juan Mendoza,64034 Bartillon Alley,12/2/2013,2.665,$87646.80,Kansas,Illinois,7967277,64832,59047,91015,29541
+731,Christine Fox,2152 Northfield Hill,Laura Miller,328 Union Plaza,1/16/2014,37.342,$31504.48,Vermont,Maryland,630161,81293,21265,34805,11840
+732,Pamela Payne,59523 Loomis Parkway,Jean Burke,3 Pepper Wood Plaza,2/16/2014,10.092,$98644.19,Oklahoma,North Dakota,3851145,16379,42930,67219,19517
+733,Larry Hawkins,5071 Hazelcrest Way,Pamela Shaw,67459 Carioca Junction,9/21/2013,42.65,$66868.91,California,Louisiana,6277368,26947,68683,60141,28179
+734,Harold Mccoy,0959 Farmco Trail,Evelyn Long,289 Milwaukee Crossing,4/10/2014,75.48,$85776.86,Washington,Alaska,8926474,80825,26146,875,29429
+735,Kelly Hill,48393 Meadow Vale Pass,Susan Wood,7 Darwin Way,8/12/2013,51.563,$76106.67,Illinois,New Mexico,5064658,85753,51411,29088,34880
+736,Aaron Harvey,43 Spohn Plaza,Jean Williamson,740 Heffernan Terrace,9/17/2013,95.816,$42527.19,Maine,Michigan,8008308,57203,51670,10278,7678
+737,Howard Cole,72 Killdeer Crossing,Wanda Bell,6 Tennyson Street,5/10/2014,57.382,$81432.58,West Virginia,South Dakota,4545262,8454,11436,89079,20868
+738,Gary Carter,7 Fair Oaks Pass,Martin Hunt,9 Fisk Lane,11/26/2013,91.626,$42679.92,New Jersey,Maryland,3107636,12674,89375,32058,11506
+739,Bruce Price,38337 Carberry Plaza,Gregory Perkins,550 Lighthouse Bay Trail,12/28/2013,77.153,$80525.17,Iowa,Kansas,4684703,42307,81131,27511,55772
+740,Benjamin Edwards,28 Havey Way,Betty Harris,9 Cascade Road,3/26/2014,2.382,$47545.54,Alabama,Massachusetts,7033928,77041,35039,14502,28938
+741,Randy Warren,983 Vahlen Avenue,Andrew Grant,9 Bunting Road,1/19/2014,22.113,$43946.78,Michigan,Rhode Island,439872,90141,58012,89656,20274
+742,Julia Richardson,8 Holmberg Lane,Judy Flores,39255 Lakewood Circle,10/11/2013,97.097,$29463.70,Nebraska,Mississippi,1159126,43780,78810,70544,1568
+743,Brian Lawson,59564 Bellgrove Parkway,Janice Ramirez,66 Waubesa Trail,9/8/2013,11.678,$42864.93,Oklahoma,Alabama,9205683,93491,65375,21625,23066
+744,Russell Kelly,555 Dakota Circle,Michelle Warren,1 Spohn Park,2/8/2014,32.151,$10734.28,West Virginia,North Carolina,4288338,83122,78253,6301,41932
+745,Alice Dixon,98571 Melrose Center,Joe Perkins,9833 Bellgrove Parkway,1/6/2014,33.958,$22437.15,Maryland,Minnesota,5492222,19552,70525,98814,13517
+746,Chris Greene,896 Old Shore Parkway,Anne Gray,8 Lighthouse Bay Park,12/7/2013,3.561,$73179.19,Massachusetts,Vermont,825829,43845,72878,42340,90572
+747,Helen Stevens,8300 Helena Point,Evelyn West,323 Rockefeller Drive,3/22/2014,89.882,$91141.46,South Dakota,South Dakota,7347775,43584,51271,19111,72433
+748,Judy Griffin,701 Graedel Way,Jeffrey Flores,3 Paget Terrace,3/21/2014,97.666,$20855.13,New Hampshire,West Virginia,9529359,41122,81686,14332,78845
+749,Heather Stevens,53617 Thackeray Hill,Sarah Hayes,47143 Mcbride Avenue,3/16/2014,15.346,$54548.08,Wyoming,Montana,7020528,65,82973,63847,73784
+750,Fred Wells,7 Spenser Street,Robert Richards,91201 Cottonwood Center,12/25/2013,82.919,$33145.97,Washington,Maine,8527291,74910,15298,59750,47373
+751,Henry Morris,9343 Harper Lane,Sandra Simmons,46 Hoffman Lane,8/9/2014,35.49,$38957.14,Alabama,Arizona,1612876,89563,54482,33701,24556
+752,Elizabeth Carpenter,5092 Tomscot Point,Marilyn Bryant,766 Sutherland Avenue,8/26/2013,15.65,$24470.15,Texas,Tennessee,1251134,62467,35153,15350,1592
+753,Jason Ramirez,92533 Anhalt Pass,Gary Graham,1 Stone Corner Road,8/18/2013,84.997,$66588.81,West Virginia,Wyoming,2871548,92562,88893,43738,39569
+754,Angela Diaz,9316 Lillian Pass,Todd Perry,0092 Northwestern Road,12/18/2013,78.348,$93024.51,Michigan,Nebraska,3240650,83164,61162,14519,75778
+755,Clarence Welch,5131 Sachs Parkway,Christina Cooper,2709 1st Pass,8/5/2014,24.122,$27106.48,Virginia,Minnesota,2162358,5115,18621,14941,40927
+756,Scott Alexander,93 Holmberg Parkway,Jeremy Lewis,3933 Bay Parkway,6/22/2014,22.592,$75881.35,Minnesota,Montana,4640255,99344,38211,55065,48370
+757,Randy Gray,72323 Charing Cross Trail,Julia Montgomery,54233 Acker Place,8/2/2013,74.613,$60359.67,Alaska,Pennsylvania,8300649,14485,31339,61701,23826
+758,Gerald Chapman,8 Golf View Junction,Brian Bishop,858 Shopko Center,5/9/2014,71.027,$61795.49,Florida,Texas,4973903,73925,61229,14466,37804
+759,Russell Carroll,518 Bonner Trail,Albert Reynolds,073 Ohio Pass,5/31/2014,99.568,$24471.55,North Carolina,Wyoming,7113123,17505,56216,33494,99850
+760,Debra Scott,32 David Drive,Joyce Johnston,1 Dryden Drive,12/29/2013,85.901,$90141.64,Pennsylvania,Idaho,3209367,15866,17931,31893,68867
+761,David Wright,1757 Sutteridge Court,Tammy Stone,8828 Mandrake Avenue,2/20/2014,44.211,$21683.57,Arkansas,Nevada,4924898,54651,49539,96226,236
+762,Bonnie Dixon,45 Ryan Terrace,Donald Wheeler,1465 Little Fleur Road,3/4/2014,19.144,$48495.08,Florida,Nebraska,7630526,23424,56674,4605,8257
+763,Gregory Riley,62785 Summer Ridge Circle,Angela Morris,02763 Ilene Crossing,12/3/2013,78.858,$30212.93,Wisconsin,Tennessee,5082002,1504,69727,73914,39024
+764,Bruce Dean,20758 Center Court,Harry Spencer,0 Independence Court,6/19/2014,9.017,$50842.03,New York,Maine,2621775,16122,2573,5449,68647
+765,Andrew Ross,373 Washington Pass,Russell Wright,29 Oak Valley Place,10/10/2013,91.162,$85756.82,Michigan,Louisiana,9829340,56702,45413,79456,52500
+766,Virginia Lynch,47 Sunnyside Hill,Brenda Evans,8979 Reinke Junction,8/10/2014,39.276,$90397.86,North Carolina,Wyoming,1758874,46348,91980,65039,84638
+767,Johnny Lane,7 Express Place,Julia Evans,997 Columbus Junction,12/26/2013,95.295,$2067.57,Delaware,Minnesota,9865464,35787,46590,39555,48275
+768,Randy Berry,4480 Crescent Oaks Road,Gary Carroll,9912 Morning Court,1/4/2014,86.446,$61242.00,Pennsylvania,Ohio,5980409,7269,23535,65177,26558
+769,Judith Jenkins,354 Petterle Drive,Joshua Thompson,02703 Waywood Circle,8/28/2013,74.187,$9876.23,Georgia,Rhode Island,465946,80136,75162,1088,11646
+770,Susan Hamilton,57 Dahle Junction,Gregory Pierce,970 Oneill Alley,11/28/2013,85.16,$5642.04,West Virginia,Maryland,5935516,36845,17775,99353,48854
+771,Ashley Moreno,038 Melrose Avenue,Walter Rice,29 Delladonna Drive,5/15/2014,3.295,$55032.14,Florida,Pennsylvania,1560468,78798,22396,78791,90124
+772,Aaron Gilbert,80732 Esch Center,Michael Ward,6 Drewry Park,7/13/2014,64.768,$2815.18,South Carolina,New York,998868,51058,24971,72856,85695
+773,Carolyn Fox,9 2nd Terrace,Frances Reyes,73682 Sage Avenue,10/6/2013,97.247,$50247.20,Vermont,Wyoming,4834474,32924,44076,64635,81417
+774,Carlos Ryan,8 Kropf Plaza,Kevin Robertson,6823 Anderson Point,1/5/2014,83.126,$91881.52,Tennessee,Massachusetts,6753239,66810,11453,48423,62362
+775,Gloria Ruiz,7220 Cardinal Circle,Craig Perkins,33 Grover Center,6/21/2014,35.475,$50092.12,Missouri,Oregon,6671347,81513,93739,95741,99255
+776,Sharon Ruiz,2 Springview Alley,Shawn Black,6596 Melby Park,3/29/2014,92.067,$59497.52,New York,Nevada,8032969,15610,33016,95063,62879
+777,Howard Wagner,96966 Weeping Birch Junction,Anne Ferguson,27 Upham Parkway,5/9/2014,46.83,$78238.48,Georgia,Missouri,6156865,93049,9782,26395,92644
+778,Ralph Hansen,21553 Swallow Street,Sara Kim,0 Declaration Plaza,11/8/2013,10.372,$44419.59,Wisconsin,Nevada,3031914,42559,42129,65455,52989
+779,Anthony Sanchez,55495 Kenwood Parkway,Harold Ross,45 Myrtle Place,11/11/2013,21.538,$16988.83,Maine,Washington,6881069,84278,80189,76097,48184
+780,Clarence Gutierrez,6674 Shoshone Court,Gary Harris,999 North Drive,12/1/2013,8.119,$68324.40,Michigan,South Carolina,7228816,23987,29408,85651,39194
+781,Louise Dixon,81 Nova Place,Kathy West,68166 Jay Terrace,8/11/2013,13.288,$16022.62,Texas,Delaware,6357679,28845,68164,2756,59905
+782,Christina Parker,4 Rockefeller Lane,Jack Gray,9 Chinook Plaza,2/20/2014,49.547,$59480.40,Mississippi,Minnesota,4321017,76105,3731,23471,83802
+783,Edward West,11238 Shoshone Place,Lois Anderson,23 Crest Line Crossing,10/19/2013,11.764,$58721.93,Iowa,Idaho,4198458,91487,19777,80592,25929
+784,Kathy Gomez,8 Heffernan Place,Amy Sims,2339 Village Way,6/13/2014,33.535,$69994.56,Oklahoma,Maryland,7903748,41484,28528,84712,68596
+785,Bonnie Graham,7257 Carpenter Way,Carol Cooper,55 Atwood Terrace,8/2/2014,72.805,$39062.45,Utah,Michigan,6368182,40251,49646,27567,69253
+786,Gloria Davis,4998 Tennessee Alley,Kevin Vasquez,9611 Moose Hill,6/30/2014,63.415,$68122.66,California,Wisconsin,2552942,83049,74010,69350,53729
+787,Christina Rogers,36296 Manitowish Pass,Edward Sanchez,54255 Spohn Parkway,10/10/2013,1.12,$98344.48,Pennsylvania,Idaho,7766541,83535,77381,16048,93992
+788,Laura Watkins,8747 Dryden Terrace,Jose Dean,5 Waxwing Circle,2/20/2014,46.796,$43125.98,Oregon,Pennsylvania,1106078,69013,14723,97066,85992
+789,Matthew Wagner,81 Ilene Lane,Benjamin Kennedy,29 Brickson Park Way,5/22/2014,17.118,$64298.54,Nebraska,South Dakota,7472481,13807,7907,56608,72319
+790,Jane Montgomery,5187 Maryland Terrace,Martha Wilson,02 Walton Hill,12/13/2013,65.766,$98364.92,Idaho,Washington,2005655,72112,43325,18090,59426
+791,Kenneth Foster,599 Green Park,Christine Mitchell,32300 Brown Court,12/22/2013,73.545,$12413.06,West Virginia,Montana,8762866,41706,45884,65229,58002
+792,Wayne Dunn,48 Hoffman Point,Wanda Harvey,13 Trailsway Drive,9/1/2013,2.74,$82418.67,Iowa,Nebraska,8297609,54291,16751,31294,68009
+793,Susan Garcia,09 Brickson Park Drive,Linda Hunt,89007 Kropf Circle,1/6/2014,20.069,$94239.52,North Dakota,South Carolina,2829590,29940,99543,66377,51492
+794,Nicole Franklin,6277 Mosinee Lane,Mildred Anderson,76003 Sunnyside Avenue,9/9/2013,83.195,$84630.94,Oklahoma,Utah,6668351,6108,29147,39879,22838
+795,Jeremy Porter,565 Grasskamp Crossing,Nicole Oliver,50430 Norway Maple Place,6/23/2014,59.041,$57374.70,Kansas,Massachusetts,6440510,5245,89107,95963,11339
+796,Walter Black,04 Vahlen Drive,Joshua Bowman,2931 Troy Park,11/25/2013,35.278,$46278.22,Alabama,Colorado,2576202,34651,60067,66630,43839
+797,Jesse Murray,980 Monterey Lane,Frank Hamilton,8955 Troy Trail,3/16/2014,64.504,$82266.70,New Mexico,Hawaii,1784664,38578,71842,20865,76034
+798,Andrew Johnston,1730 Oriole Court,Peter Black,4 Sundown Crossing,8/31/2013,87.27,$86993.04,North Dakota,Washington,9368429,95188,52086,58999,36954
+799,Samuel Lewis,5 Cordelia Place,Christine Alvarez,62 Eagle Crest Lane,8/16/2013,1.966,$26667.55,Louisiana,Kansas,6196960,1834,18615,29014,39771
+800,Jessica Hansen,2 Gerald Junction,Timothy Scott,5 Birchwood Court,9/5/2013,60.594,$95461.89,Colorado,New Hampshire,9266001,55971,7615,35950,59300
+801,Jeremy Cox,13573 Straubel Road,Antonio Carroll,18 Bultman Terrace,4/10/2014,9.179,$3563.81,North Carolina,West Virginia,9242572,48030,49078,39840,86050
+802,Ruth Wheeler,08168 Larry Lane,Ralph Rivera,20385 Forest Dale Plaza,9/22/2013,18.776,$88856.46,Michigan,Vermont,5347715,80458,9178,1652,71602
+803,Justin Hansen,1 Old Gate Avenue,Paul Thompson,0 Judy Way,9/22/2013,77.32,$41423.21,West Virginia,Idaho,8822562,76868,89832,45789,85403
+804,Brenda Campbell,5 Carioca Junction,Harold Ramos,17009 Jana Court,5/6/2014,23.837,$39686.30,Minnesota,Colorado,6101357,50612,11655,29557,97917
+805,Wanda Wood,0 Troy Plaza,Catherine Gilbert,9185 Comanche Court,5/7/2014,68.472,$17304.11,Washington,Arkansas,8804625,1217,22483,60672,37423
+806,Steven Castillo,083 Express Way,Todd Burke,0 Badeau Alley,3/5/2014,12.471,$60962.02,Ohio,Idaho,3330052,55391,92671,4919,52311
+807,Anne Gilbert,6 Prairieview Pass,Philip Berry,16422 Chinook Circle,3/21/2014,27.906,$49673.27,Michigan,Ohio,9234156,97476,47573,30128,72631
+808,Timothy Gordon,4439 Drewry Alley,Diane Sanchez,00 Bluestem Drive,3/14/2014,85.929,$54137.62,Georgia,Idaho,6156210,11070,42706,29119,38760
+809,Rose Roberts,7 Di Loreto Avenue,Roy Peterson,032 Talmadge Terrace,4/18/2014,49.689,$57868.30,Nevada,West Virginia,1869986,84876,82298,90698,34675
+810,Nicole Holmes,07 Crest Line Court,Michelle Larson,6032 Washington Street,6/5/2014,11.679,$83011.33,North Dakota,Maryland,4223537,71479,57251,30806,75840
+811,Cheryl Fisher,4 Columbus Park,Julia Burke,3068 Ramsey Way,1/16/2014,96.752,$49692.01,Delaware,South Dakota,8086709,67663,18751,13528,29675
+812,Kevin Wheeler,78 Esch Parkway,Martin Baker,8 Corscot Terrace,5/30/2014,57.704,$92496.31,Idaho,Delaware,3980753,22997,58743,60845,2629
+813,Jeremy Howell,51355 Spohn Center,Rose James,85 Helena Way,8/2/2013,58.46,$5646.09,Washington,North Carolina,6459355,16264,92681,89438,92838
+814,Julia Flores,1506 Garrison Court,Andrea Gilbert,231 Vahlen Center,4/14/2014,60.812,$24072.43,New Hampshire,Colorado,9475141,88188,67028,12999,39645
+815,Jerry Medina,25 Little Fleur Alley,Daniel Duncan,13621 7th Center,5/25/2014,59.77,$40289.46,Massachusetts,South Dakota,9207851,45227,3540,79802,96423
+816,Ryan Hill,43002 Stang Street,Kathryn Gutierrez,2185 Fairfield Circle,7/16/2014,97.835,$38948.86,Montana,Kentucky,2630975,31898,90168,19293,47028
+817,Jerry Green,05 Heffernan Place,Heather Gonzalez,7848 Mayfield Park,4/27/2014,61.794,$11047.04,Wisconsin,Tennessee,8059298,45690,8785,32849,86111
+818,Helen Wallace,263 Fairfield Plaza,Debra Hanson,4 Cordelia Court,8/12/2013,3.508,$83802.62,Rhode Island,New Jersey,2049288,85724,10508,89499,61714
+819,Anthony Austin,93204 Arkansas Place,Christina Hernandez,797 Dawn Way,5/25/2014,48.543,$44614.66,Iowa,New Mexico,1553699,39600,8739,72739,37399
+820,Anne Bryant,3882 La Follette Point,Lois Hamilton,4365 South Point,2/17/2014,48.421,$19575.06,Washington,Georgia,1018950,90402,58356,94742,73802
+821,Joseph Larson,87 Banding Court,Rebecca Bailey,1693 Algoma Lane,8/25/2013,17.288,$98978.89,Vermont,Delaware,5019018,92702,41109,5020,11174
+822,Lois Larson,3040 Heffernan Court,Matthew Lee,323 Bellgrove Trail,8/15/2013,17.762,$52232.02,West Virginia,Florida,5641192,22715,8899,64943,60964
+823,Justin Miller,4 Bunker Hill Park,Jane Little,4767 Washington Hill,5/20/2014,37.377,$28158.90,Ohio,New Jersey,3630746,83115,45161,63971,63774
+824,Andrea Dunn,02 Jana Street,Shirley Fuller,42536 Ilene Terrace,8/11/2014,54.599,$12409.19,Colorado,Nebraska,2128016,36232,27109,90903,52564
+825,Jesse Reid,01 Gerald Trail,Martha Hall,08371 Karstens Street,2/9/2014,76.118,$50808.55,Alabama,Iowa,835657,33869,30275,19899,39732
+826,Heather Wheeler,667 Buena Vista Center,Donna Lewis,02 Grasskamp Park,4/23/2014,83.814,$96465.95,New Jersey,Georgia,5495647,20120,13141,68013,63430
+827,Tina Ramos,27 Boyd Trail,Emily Sanders,950 Warrior Circle,4/23/2014,56.127,$97242.47,Idaho,Georgia,8636718,42386,11900,96510,7656
+828,Harold Brown,4 Pond Center,Douglas Edwards,3 Hoepker Pass,11/28/2013,83.351,$22074.01,West Virginia,Arkansas,5881516,92847,14197,39443,20991
+829,Frank West,63966 Dahle Pass,Victor Mills,664 Buell Alley,11/14/2013,10.879,$3358.28,North Carolina,New Jersey,1623790,24980,20343,63306,3422
+830,Theresa Fields,21 Novick Circle,Bonnie Dunn,0 Vahlen Trail,1/28/2014,90.962,$72493.35,Idaho,Hawaii,6590860,76079,92544,59884,83006
+831,Fred Hamilton,383 Nevada Junction,Martha Perkins,1128 Straubel Drive,7/22/2014,95.553,$29807.13,Indiana,Connecticut,5167269,3176,99129,95959,44663
+832,Brenda Harvey,68 Saint Paul Plaza,Ruth Collins,83 Fordem Plaza,8/16/2013,94.03,$30299.21,West Virginia,Pennsylvania,7623154,33845,88128,62507,23911
+833,Daniel Foster,372 Acker Circle,Patricia Stephens,24 Packers Plaza,6/20/2014,14.461,$56682.24,Connecticut,Oregon,5275007,39146,70252,87214,16153
+834,Michelle Pierce,9258 Namekagon Plaza,Doris Jordan,356 Bluestem Park,3/20/2014,16.68,$79694.00,Oregon,Maryland,8605112,36868,80324,29263,98921
+835,Karen Knight,451 Hoffman Avenue,Carol Burton,731 Huxley Alley,7/22/2014,84.601,$74486.22,Utah,Delaware,2280837,17504,14475,50389,88818
+836,Donald Roberts,7 Kim Plaza,Terry Edwards,1336 Annamark Place,1/27/2014,14.131,$12697.03,Hawaii,Alaska,4673210,64170,48211,22294,7721
+837,Arthur Murphy,5 Mayfield Street,Sandra Austin,7449 Fair Oaks Avenue,9/3/2013,50.271,$42907.58,Alaska,Kansas,1367319,49059,13431,18040,72249
+838,Daniel Gilbert,93678 Drewry Circle,Irene Sullivan,26494 Oneill Circle,10/15/2013,27.984,$29143.59,Nevada,South Dakota,2856862,48609,35821,78362,88088
+839,Charles Johnson,2484 Fisk Plaza,Judith Burns,1 Eggendart Road,12/1/2013,77.517,$56216.81,Maryland,Alabama,7613517,57026,19102,19059,19184
+840,Irene Price,554 Mendota Drive,Kevin Wright,553 Dennis Plaza,9/16/2013,95.869,$54771.97,Idaho,Arkansas,1756199,73199,27763,78272,48340
+841,Emily Oliver,788 Londonderry Drive,Albert Ellis,1666 Butternut Junction,6/17/2014,84.855,$47105.10,Idaho,Washington,6949447,73290,68393,49432,35794
+842,Mildred Richardson,5 Ruskin Trail,Annie Hill,6339 Green Ridge Way,7/26/2014,94.774,$90395.77,Nevada,Alaska,7683165,45210,83133,59596,36341
+843,Norma Cook,0078 Dahle Street,Harry West,05373 New Castle Point,5/24/2014,65.109,$42771.03,Georgia,Oklahoma,4641645,60860,69053,88421,71283
+844,Elizabeth Hughes,56 Leroy Park,Robert Hunt,7 Hagan Pass,1/9/2014,29.605,$57133.84,Idaho,North Carolina,6019585,34903,66838,85841,80956
+845,Stephen Simpson,2 Independence Pass,Earl Perez,87202 Ridgeview Parkway,6/6/2014,79.226,$2968.88,South Dakota,Colorado,1116788,78740,23057,4881,99513
+846,Jennifer Green,227 Pawling Road,Evelyn Crawford,5950 Ryan Avenue,3/16/2014,65.74,$66878.31,Nebraska,Nebraska,4216357,49567,7446,72202,51099
+847,Beverly Hunt,52586 Fallview Circle,Willie Carpenter,54869 Spenser Crossing,1/28/2014,98.416,$90766.06,Montana,New Jersey,4773194,12822,47743,20966,54350
+848,Judith Willis,50928 Steensland Road,Daniel Nelson,48112 Bluestem Center,11/12/2013,92.993,$62314.03,Connecticut,Delaware,6394885,30385,20608,48034,81988
+849,Helen Woods,198 Ridge Oak Street,Justin Baker,5443 Schmedeman Lane,3/11/2014,68.681,$15298.49,Georgia,North Dakota,1388726,8718,69872,86111,82813
+850,Joe Rodriguez,41636 Hollow Ridge Terrace,Scott Cunningham,174 Fieldstone Alley,5/25/2014,27.884,$37627.09,Connecticut,Rhode Island,3561568,41042,42880,8097,8845
+851,Lillian Porter,9 Washington Terrace,Robin Morrison,94067 Kensington Park,5/9/2014,32.425,$67784.90,Nebraska,Colorado,4767172,93198,85922,30745,71541
+852,Jack Morales,71 Sage Center,Aaron Warren,8516 Loeprich Crossing,8/31/2013,47.713,$20974.23,Vermont,South Carolina,5306080,23069,36648,34601,47258
+853,Adam Chavez,9 Shasta Trail,Wayne Murray,163 Boyd Place,2/8/2014,7.844,$78924.80,Minnesota,Alabama,9236505,50451,92881,23919,23630
+854,Kathy Day,5 Packers Crossing,Melissa Henderson,60679 Norway Maple Plaza,5/19/2014,34.466,$38992.69,Washington,Illinois,8814814,67078,34753,89959,95776
+855,Timothy Nguyen,8140 Kinsman Place,Jerry Fisher,76746 Cardinal Court,6/8/2014,28.207,$71234.37,Arizona,Alaska,9865116,53623,74139,86622,80920
+856,Anne Johnston,52731 Montana Point,Marie Ruiz,53604 East Place,2/26/2014,73.034,$61976.02,Michigan,Vermont,8729449,9055,93113,93766,40171
+857,Benjamin Marshall,7 Shasta Court,Adam Payne,691 Manitowish Park,6/12/2014,16.493,$8274.75,Idaho,Alabama,5588040,95593,62648,81725,82733
+858,Melissa Jenkins,029 Dexter Hill,Brandon Thomas,1 Truax Circle,4/21/2014,11.373,$38256.33,California,Tennessee,2368187,30284,23678,46250,58882
+859,Jack Spencer,1 Mockingbird Place,Evelyn Harvey,17716 Summerview Pass,12/1/2013,89.681,$16731.81,South Carolina,Maryland,8910945,40873,74463,76455,39919
+860,Kathy Carpenter,35656 Oneill Terrace,Terry Ford,856 Burning Wood Plaza,7/5/2014,87.868,$84957.74,West Virginia,Michigan,8933080,54485,64964,39359,1184
+861,Phyllis Howell,5346 Warbler Terrace,Scott Mendoza,4 Fordem Parkway,8/5/2014,89.61,$33016.48,New York,Maryland,7504998,72710,46067,80520,78710
+862,Michael Palmer,00 Brickson Park Plaza,Cheryl Mitchell,08 Lakewood Gardens Road,5/17/2014,47.345,$20169.57,California,Missouri,8972489,35334,97573,63989,64037
+863,Brian Morrison,633 Springview Alley,Gregory Andrews,786 Toban Hill,7/11/2014,61.294,$95710.96,Alabama,Oklahoma,8032822,69473,8676,56893,12137
+864,Jeremy Lane,8809 Sullivan Point,Susan Wheeler,37 Nova Lane,11/22/2013,25.347,$56697.24,Massachusetts,Connecticut,1723867,66660,77104,90542,98900
+865,Nicholas King,350 Hoard Place,Kathryn Reed,15519 Barby Parkway,5/25/2014,66.029,$30193.47,Colorado,Illinois,5607824,45517,14567,92718,67184
+866,John Stone,958 Bonner Avenue,Louis Welch,88081 Gerald Junction,7/27/2014,97.471,$34797.33,Ohio,Louisiana,9551160,5139,19689,46120,44099
+867,Gregory Porter,2 Dennis Center,Mary Daniels,32619 Cardinal Street,4/1/2014,79.701,$94225.67,Iowa,Wisconsin,8661864,40038,26199,65613,37808
+868,Lori Cole,00192 Melody Plaza,Benjamin Allen,6 Beilfuss Avenue,1/20/2014,39.883,$62512.65,Pennsylvania,Nevada,950759,49898,64355,99794,9126
+869,Walter Thomas,276 Raven Lane,Carlos Hawkins,72829 Pine View Parkway,7/8/2014,12.631,$32866.17,Ohio,Missouri,7727907,93431,98246,33141,61771
+870,Harry Hunter,97690 Sullivan Junction,Deborah Ellis,63374 Veith Avenue,10/22/2013,93.771,$45624.33,Pennsylvania,Kentucky,1329217,8687,76027,3867,80646
+871,Douglas Campbell,9 Brown Drive,Evelyn Ferguson,131 Oakridge Junction,7/13/2014,63.766,$54628.03,Ohio,Massachusetts,7550384,92041,4442,77400,50377
+872,Christopher Moreno,59260 Nancy Trail,Norma Hughes,5 Monterey Circle,2/19/2014,18.212,$51259.78,Florida,Arkansas,8173977,4205,24144,10617,84639
+873,Lori Bennett,2 Derek Court,Randy Roberts,34266 Kings Terrace,2/2/2014,80.733,$45157.89,North Dakota,Oklahoma,5214941,60288,1128,7974,98436
+874,Kathryn Gardner,1223 Hagan Circle,Russell James,86 Independence Point,4/6/2014,51.114,$21519.07,New Mexico,Nebraska,247342,37274,6120,83266,11940
+875,Sean Jenkins,44795 Barnett Center,Andrea Martinez,0 Macpherson Street,2/7/2014,70.528,$30460.94,Oregon,Maine,2008501,6770,57369,5725,46134
+876,William Powell,634 Maple Wood Terrace,Diana Carter,4 Evergreen Alley,5/30/2014,52.416,$90901.45,Utah,Virginia,9512456,23998,29089,13593,55371
+877,Jeffrey Carpenter,5 Montana Hill,Judy Scott,1 Buell Avenue,2/22/2014,98.174,$98419.21,Indiana,West Virginia,4993883,77368,96257,56707,80638
+878,Kenneth Cox,7640 Texas Pass,Douglas King,70289 Dwight Court,4/9/2014,29.524,$41558.91,Kansas,New Mexico,2948636,94255,30686,39790,82468
+879,Chris Knight,65438 Columbus Drive,Kathryn Crawford,9564 Farwell Pass,3/19/2014,64.602,$94109.51,Nebraska,Alabama,2241589,64041,87950,55575,12457
+880,Richard Bishop,85 Moose Terrace,Jane Henderson,9118 Mccormick Street,9/13/2013,64.597,$45267.89,Alaska,Illinois,1868897,54848,37149,21435,34725
+881,Howard Rodriguez,466 Fairfield Park,Virginia Lee,29536 Namekagon Way,3/26/2014,21.317,$11332.58,Connecticut,Arkansas,1945978,33840,2480,10230,586
+882,Amy Rice,5078 Browning Place,Angela Schmidt,87 Bowman Lane,4/20/2014,18.688,$96927.10,Arizona,Maryland,5983438,60914,45378,49863,48793
+883,Beverly Sanchez,85808 Buena Vista Terrace,Tammy Bradley,31134 Schmedeman Trail,8/12/2014,80.0,$88639.39,Michigan,Pennsylvania,7022419,78228,9249,97470,19154
+884,Donna Matthews,72 Roth Lane,Carlos Cole,19412 Sommers Road,3/31/2014,37.187,$34273.33,Oregon,Nevada,8686695,91484,49532,24167,12964
+885,Roger Ross,25 North Road,Gary Welch,92874 Montana Place,1/30/2014,20.008,$61627.44,Florida,Ohio,6647709,52186,17455,89150,41614
+886,Lisa Graham,6 Hermina Point,Diane Mitchell,007 Riverside Hill,6/5/2014,77.041,$60303.07,Nebraska,Nevada,3452502,95999,51964,96135,97499
+887,Timothy Sullivan,3570 Manufacturers Pass,Lawrence Wheeler,6 Straubel Circle,10/25/2013,5.922,$81553.05,Washington,Oregon,6392038,32254,77354,13149,78885
+888,Lillian Freeman,433 Fairfield Avenue,Sean Scott,9 Dayton Terrace,4/8/2014,32.387,$5904.54,Iowa,New York,8827305,20518,51795,54125,78677
+889,Richard Moore,3731 Shoshone Pass,Beverly Porter,03220 Westport Street,10/29/2013,60.18,$19130.33,Arkansas,Indiana,3973487,9777,42150,58264,83390
+890,Anna Flores,8602 Texas Court,Eric Alexander,66977 Mockingbird Place,12/11/2013,19.071,$76396.74,Missouri,South Dakota,1191787,44780,74454,13122,64560
+891,Emily Cook,928 Stang Lane,Elizabeth Roberts,0 Di Loreto Trail,7/31/2014,94.147,$38383.12,Utah,Colorado,716777,71134,80393,34301,51328
+892,Beverly Carpenter,6401 Lakewood Gardens Center,Nicholas Welch,3517 Gulseth Point,3/16/2014,93.846,$21389.38,Arizona,Georgia,6541254,1302,26750,11266,70657
+893,Doris Garrett,61904 Autumn Leaf Park,Jesse West,8050 Delladonna Trail,4/4/2014,31.434,$16682.09,Michigan,Indiana,4732274,55194,86200,68903,7863
+894,Steven Barnes,6 Del Mar Terrace,Brian Tucker,7721 Aberg Trail,5/24/2014,53.305,$51369.47,Georgia,Kentucky,5122050,80041,93657,22775,6035
+895,Frank Arnold,28 Union Terrace,Joyce Hanson,75 Dawn Center,10/6/2013,8.599,$67435.41,West Virginia,Oregon,5615069,93627,18591,14414,21895
+896,Joshua Sullivan,5532 Esker Plaza,Carlos Hansen,13190 Texas Park,6/14/2014,42.308,$2940.77,North Dakota,Maine,7689635,33669,97079,1414,28291
+897,Joan Gibson,08 Artisan Way,Harold Moreno,383 Buhler Point,2/1/2014,35.805,$58250.30,California,Pennsylvania,6763469,63069,662,64900,94840
+898,Amanda Carr,2 Amoth Circle,Ashley Murphy,85 Sauthoff Center,8/26/2013,96.827,$32420.44,Iowa,North Carolina,8377197,61243,34210,5765,71997
+899,Heather Perry,8 Lukken Avenue,Scott Nelson,2603 Eastlawn Center,12/13/2013,97.334,$89710.08,New Mexico,Indiana,7670204,94480,65700,87963,83667
+900,Rebecca Anderson,2875 Main Street,Peter Burns,12169 Mockingbird Hill,10/18/2013,63.802,$15775.24,Georgia,West Virginia,2467415,73412,87427,84852,2515
+901,Edward Thomas,338 Longview Lane,Fred Larson,4 Rieder Center,3/19/2014,87.556,$50613.21,New Mexico,Montana,6696567,30921,31032,93512,20494
+902,Randy Moore,0 Springs Center,Catherine Brooks,179 Cottonwood Court,11/15/2013,42.51,$47028.72,Oregon,Georgia,7380065,50259,1333,29435,43368
+903,Debra Dean,5 Grover Center,David Ramirez,0 8th Lane,3/3/2014,46.514,$17718.41,Maine,Arkansas,963771,85445,88095,35260,16077
+904,Mildred Hudson,7 Mallard Street,Terry Rose,394 Sunbrook Plaza,8/22/2013,42.904,$25883.74,Alaska,Mississippi,9807954,99962,28248,69709,29594
+905,Charles Snyder,6 Fallview Lane,Susan Allen,0641 Springview Way,2/17/2014,34.011,$83518.15,Hawaii,Alaska,718136,53367,16560,83293,37613
+906,Shirley Lewis,14 Rockefeller Hill,Arthur Hart,53396 Charing Cross Park,9/9/2013,53.313,$82563.55,Utah,Ohio,6345754,87620,72000,12551,40149
+907,Joe Young,6 Lukken Drive,Jane Willis,13 Muir Hill,2/14/2014,22.723,$76052.96,Arkansas,Pennsylvania,2690127,7447,4562,27902,81231
+908,Roy King,31052 Moland Crossing,Justin Stevens,534 Thierer Terrace,10/28/2013,71.327,$61371.17,Iowa,Rhode Island,7885340,25868,75312,19770,66719
+909,Melissa Carter,19 Lakeland Street,Jeffrey Romero,1 Bobwhite Way,5/22/2014,56.496,$30111.27,Georgia,North Dakota,4065848,46206,50829,80111,7106
+910,Harold Garcia,8 Waxwing Avenue,Shawn Gibson,07 Reinke Road,8/9/2013,45.44,$62308.79,Utah,Georgia,3222639,2196,85155,17796,13010
+911,Denise Wagner,987 Coleman Junction,Ruby Romero,2094 Mccormick Plaza,3/11/2014,17.237,$27523.21,South Carolina,Ohio,312622,22607,78452,60605,18393
+912,Charles George,35325 Barnett Way,Gregory Johnston,85000 Fair Oaks Lane,2/5/2014,52.879,$4597.40,North Dakota,Texas,2469909,78839,58265,60236,55221
+913,Earl Walker,250 Redwing Avenue,Sharon Ramirez,8 Namekagon Park,4/20/2014,33.347,$39901.42,Georgia,New Hampshire,6582070,70898,1284,10860,6752
+914,Wayne Hall,7 Meadow Valley Parkway,Antonio Matthews,647 Homewood Plaza,9/15/2013,36.462,$76692.80,Iowa,Mississippi,5670181,18655,39028,10921,45155
+915,Sara Davis,881 Continental Center,Lori Peterson,6 Kim Place,9/1/2013,46.009,$42549.31,Wisconsin,New York,1187408,34790,6408,28314,81798
+916,Helen Robinson,1 Waubesa Plaza,Matthew Stewart,993 Golf Course Place,1/11/2014,8.878,$6110.32,Colorado,North Carolina,758431,14063,24954,75164,6556
+917,Tina Sullivan,174 Vermont Way,Sara Reyes,393 Cascade Park,1/7/2014,31.849,$96300.21,Rhode Island,Wisconsin,2316210,17119,72678,96474,33816
+918,Diana Wilson,4154 Arapahoe Alley,Gregory Burke,2 North Terrace,9/3/2013,57.243,$83151.90,Mississippi,Georgia,3514460,10239,93893,81713,50449
+919,Matthew Nguyen,0 Brickson Park Place,Louis Fuller,3 Steensland Hill,11/11/2013,16.057,$33139.97,Pennsylvania,Virginia,1285443,7747,77997,45034,13995
+920,Brenda Mitchell,3523 Carey Road,Joshua Howard,2 Talisman Trail,10/19/2013,76.552,$21864.73,New Mexico,Virginia,4161612,35035,58193,89358,64894
+921,Fred Henderson,529 Linden Center,Virginia Arnold,531 Truax Terrace,2/9/2014,9.275,$80330.16,Hawaii,Nebraska,3769989,24957,55163,50767,1325
+922,Matthew Sullivan,26 Moose Center,Rachel Reed,672 Mockingbird Avenue,2/26/2014,38.321,$88340.88,Minnesota,Minnesota,2104554,2195,52494,37131,87469
+923,Paul Patterson,4 Johnson Lane,James Ferguson,1721 Del Sol Hill,9/24/2013,21.14,$28584.14,Tennessee,Missouri,706088,53611,55510,60026,58477
+924,Debra Green,100 Reindahl Park,Walter Willis,005 Sunbrook Pass,6/20/2014,96.819,$50799.66,Ohio,Delaware,2184070,63023,89283,1384,26628
+925,Lawrence Washington,888 Colorado Terrace,Sandra Cox,3 Veith Lane,6/14/2014,22.864,$81263.96,Connecticut,Indiana,7518340,588,41772,28953,27581
+926,Janet Nelson,70025 Mayfield Center,Kathryn Hicks,7 Katie Point,3/12/2014,27.567,$75133.81,Indiana,Illinois,9485523,49321,67117,26840,24032
+927,Karen Knight,3647 Kedzie Point,Patricia Burns,7916 Loftsgordon Lane,6/27/2014,59.924,$36561.75,Iowa,Virginia,9881146,40001,4625,39422,71491
+928,Daniel Welch,5858 Buell Lane,Jean Banks,15 Brentwood Junction,4/23/2014,58.593,$83833.13,Delaware,Massachusetts,2280307,91224,98342,67234,90493
+929,Melissa Allen,10 Anzinger Road,Russell Hart,5 Erie Court,9/27/2013,10.535,$7381.26,North Dakota,Vermont,5288510,48261,75594,26399,27569
+930,Todd Dunn,6674 American Ash Junction,Benjamin Young,6 Arapahoe Point,10/2/2013,61.161,$9358.97,Kentucky,Indiana,5220207,8392,16538,85572,80616
+931,Shawn Simmons,6643 Columbus Road,Joshua Simmons,80766 Goodland Court,2/24/2014,20.705,$56126.44,Alabama,Hawaii,5956322,68464,86907,5477,66998
+932,Stephanie Gibson,35 Mitchell Road,Richard Martin,3928 Melvin Plaza,11/7/2013,72.799,$44846.30,Oklahoma,South Dakota,934498,34900,63791,60907,27292
+933,Kathleen Rodriguez,596 Shoshone Circle,Martha Harrison,6 Golf Course Drive,12/25/2013,35.042,$65060.08,Alaska,Alaska,4605671,53740,62454,87024,15449
+934,Johnny Dixon,49118 Cardinal Point,Denise Chapman,21 Mifflin Point,4/18/2014,82.744,$7053.48,South Carolina,New York,4651512,37749,41090,39748,1349
+935,Ryan Jenkins,414 West Plaza,Wanda Price,855 Northview Crossing,8/20/2013,23.027,$25065.39,Massachusetts,North Carolina,5439000,31954,67332,40207,80403
+936,Brian Perry,6 Susan Park,Eugene Parker,19064 Chinook Crossing,1/27/2014,10.739,$43955.13,Arkansas,Virginia,640299,53777,8889,76350,10540
+937,Ronald Hawkins,88 Ohio Junction,Scott Oliver,78340 Leroy Center,1/10/2014,93.22,$57023.84,Kentucky,Washington,7001605,14932,31918,75841,48611
+938,Tammy Perry,6052 Darwin Park,Melissa Armstrong,51 Di Loreto Park,3/12/2014,44.606,$75859.33,Wyoming,Illinois,5731114,97732,17893,84746,63257
+939,Stephen Bradley,3 Arizona Junction,Pamela Harvey,724 Westport Pass,4/13/2014,77.516,$77002.34,Kansas,Florida,1858694,24994,1245,61511,26643
+940,Barbara Peters,709 Onsgard Parkway,Kevin Cruz,82112 Pleasure Circle,3/26/2014,71.617,$4883.49,New Jersey,North Carolina,6492457,68684,57083,13981,88269
+941,Aaron Ramos,84976 Stephen Road,Larry Rodriguez,95458 Welch Hill,8/23/2013,36.79,$36291.51,South Carolina,Montana,5943095,28907,75740,5255,56121
+942,Gregory Wright,32341 Almo Drive,Edward Alvarez,0015 Vernon Drive,11/24/2013,53.255,$61258.44,Massachusetts,Wisconsin,6662905,21030,16625,32858,77150
+943,Charles Harrison,6 Novick Street,Pamela Shaw,6291 6th Plaza,2/16/2014,4.444,$33408.43,Texas,Minnesota,9571861,51598,93257,69984,97185
+944,Aaron Olson,63 Hollow Ridge Terrace,Lillian Black,39388 Northview Parkway,11/19/2013,83.439,$60984.57,Georgia,South Dakota,6423562,67181,79324,88811,78878
+945,Paula Lynch,47227 7th Court,Bonnie Ford,5 Ridge Oak Court,10/19/2013,76.338,$83325.24,Virginia,Oklahoma,7930792,60832,20657,31270,94434
+946,Jane Peterson,408 Shopko Center,Alice Gutierrez,4945 Jay Road,9/14/2013,16.421,$47642.04,Nevada,Kansas,57739,19277,64714,59768,62895
+947,Angela Lynch,96678 Loeprich Park,Joyce Davis,50016 Burrows Lane,8/11/2013,43.33,$882.03,Colorado,Texas,7311462,58777,73026,86425,3098
+948,Marie Mitchell,7 Lerdahl Hill,Ruth Black,5 Redwing Place,1/15/2014,25.678,$63563.40,Alabama,Alabama,3632465,25396,33010,9554,74828
+949,Teresa Matthews,01764 Hanson Parkway,Anna Reyes,989 Fulton Parkway,2/16/2014,43.965,$30531.11,Oregon,Florida,4867665,13065,25233,91812,35835
+950,Ronald Davis,63 Bayside Terrace,Bruce Price,8092 Riverside Road,10/7/2013,57.294,$45479.67,North Dakota,Indiana,753742,58004,32488,77869,87458
+951,Marilyn Flores,82 Ruskin Parkway,Doris Hill,6 Di Loreto Terrace,7/9/2014,69.449,$35715.26,South Dakota,Kentucky,5033736,81791,37679,99542,38445
+952,Rebecca James,21105 Caliangt Parkway,Elizabeth Richardson,8604 Pierstorff Street,9/29/2013,6.893,$26820.76,Oregon,Montana,384984,8532,81071,80467,26027
+953,Donna Miller,5 Monterey Road,Linda Young,4072 Barnett Terrace,1/16/2014,13.985,$15316.75,Oklahoma,North Carolina,6143308,87481,40026,75682,59728
+954,Doris Freeman,53 Thierer Circle,Roger Medina,2227 Clove Avenue,8/9/2014,66.175,$37755.28,Virginia,Nebraska,6095064,56584,90660,59482,12561
+955,Adam Williamson,9153 Springview Hill,Norma Marshall,348 Garrison Road,2/28/2014,83.486,$30699.57,Wisconsin,Georgia,210248,85694,3986,86246,82543
+956,Bobby Fernandez,6 Warner Point,Harold Hamilton,89 Dennis Pass,8/24/2013,93.151,$6678.90,Delaware,Wisconsin,2566551,58382,36145,54104,49419
+957,Benjamin Anderson,6 Hooker Avenue,Randy Carroll,6 Park Meadow Park,6/8/2014,67.742,$32671.57,New Jersey,North Carolina,1106459,35310,18779,31764,87003
+958,Christopher Baker,97 Barnett Crossing,Rose Howell,70289 1st Street,9/1/2013,10.303,$3860.66,Maryland,Washington,4469377,89086,37968,39361,54720
+959,Anna Turner,9 Walton Avenue,Jennifer Lane,0 Stuart Hill,12/23/2013,16.852,$28033.42,North Carolina,Maine,9625728,76992,73963,32282,7858
+960,Joan Gonzalez,984 West Street,Patricia Reed,218 Service Center,11/28/2013,99.421,$23760.50,New York,Michigan,7970464,80295,78315,56394,41521
+961,Harry Snyder,084 Melrose Drive,Heather Reed,42881 Melvin Place,5/27/2014,29.666,$76373.88,Michigan,Wisconsin,1776643,56500,38840,46738,31375
+962,Kimberly Knight,62 Susan Hill,Jessica Morgan,173 Lyons Hill,3/8/2014,91.776,$87949.88,Kansas,Maine,9960060,11013,90745,95395,57660
+963,Jason Jacobs,5 Evergreen Hill,Heather Hudson,38 6th Place,8/17/2013,32.155,$56858.15,Oregon,Louisiana,6353845,91434,9182,23759,21588
+964,Louis Garcia,2 Morning Way,Gloria Garcia,026 Muir Lane,7/12/2014,16.762,$89056.65,New Hampshire,Louisiana,2483723,20041,3248,7001,96129
+965,Brandon Adams,1 Division Place,Debra Riley,019 Village Green Circle,5/13/2014,12.211,$40675.55,Iowa,Alabama,1510483,63905,64882,21877,86859
+966,Mildred Vasquez,69 Prairieview Circle,Anthony Oliver,08 Buell Avenue,7/3/2014,72.314,$58215.02,Arizona,Utah,9284908,73546,50961,38368,25490
+967,George Myers,99 Debra Crossing,Thomas Kennedy,349 Fuller Trail,6/17/2014,39.664,$46886.50,New Hampshire,New Mexico,3025251,44984,33527,91328,26977
+968,Ernest Ramirez,67 Hayes Center,Anne Garrett,18489 Springview Drive,6/19/2014,38.915,$8804.39,Hawaii,New Jersey,8925844,53483,97500,54221,94068
+969,Walter Roberts,9 Gulseth Junction,Victor Willis,1 Ramsey Park,1/19/2014,90.797,$20459.36,New Mexico,South Carolina,78743,99160,81694,51789,54830
+970,Lisa Cook,74 Marcy Plaza,Lois Dunn,26274 Melby Avenue,4/25/2014,39.356,$55831.75,New Mexico,Utah,8361965,32443,68475,85001,85989
+971,Brandon Snyder,5932 Barnett Terrace,Douglas Collins,487 Hooker Parkway,9/1/2013,69.227,$33326.49,Iowa,Wisconsin,6228162,97530,22782,84240,2259
+972,George Stevens,0913 Fisk Trail,Richard Welch,98120 Monument Terrace,1/20/2014,90.345,$12087.16,Nebraska,Nevada,4435679,80703,99318,43709,13407
+973,Betty Meyer,283 Parkside Way,Diana Meyer,05 Dexter Way,2/22/2014,82.15,$39097.56,Iowa,North Dakota,6265022,27062,84734,80298,17199
+974,Judith Garrett,290 Onsgard Center,William Garcia,182 Corben Crossing,3/31/2014,8.864,$16910.47,North Dakota,Michigan,5605421,51930,78141,3872,84579
+975,Tina Roberts,9553 Maryland Junction,Andrew Weaver,470 Anniversary Place,1/17/2014,39.455,$39011.01,Virginia,Pennsylvania,3506812,35707,34846,36404,68765
+976,Jack Coleman,672 Monument Drive,Ann Sims,97 Dryden Way,11/18/2013,68.709,$77450.70,Tennessee,Florida,5323372,18507,20614,63954,68009
+977,Russell Tucker,39 Garrison Plaza,Brenda Ramos,78704 Clarendon Pass,12/24/2013,82.483,$47965.77,Rhode Island,Ohio,8354399,3360,17069,88978,86076
+978,Sean Simmons,92 7th Parkway,Andrea Bradley,67220 Dennis Crossing,12/26/2013,48.86,$61949.63,Massachusetts,Iowa,566676,90871,7717,85078,32536
+979,Catherine Green,4609 Prentice Way,Gary Banks,4019 Bonner Trail,11/29/2013,52.071,$45207.12,Delaware,Texas,8998725,52871,32135,18766,1482
+980,Brenda Burke,747 Killdeer Way,Johnny Simpson,67644 Oak Court,5/20/2014,32.233,$62197.14,Massachusetts,Kentucky,7002718,34673,55518,82364,14589
+981,Patricia Reid,519 Dayton Way,Robert Pierce,320 Corben Road,8/9/2014,33.615,$16816.60,Iowa,Pennsylvania,3157191,84038,38395,97287,11849
+982,Linda Little,32800 Lukken Road,Samuel Bishop,9 Dryden Pass,11/25/2013,0.489,$56726.31,Alabama,Louisiana,2917940,15941,85884,58382,79402
+983,Barbara Patterson,66551 Claremont Parkway,Carol Ryan,7601 Vernon Trail,8/24/2013,99.855,$37528.01,Kentucky,California,824381,51268,55664,98823,20432
+984,Cheryl Ray,0 Meadow Vale Pass,Kathy Adams,67441 Ridgeview Junction,6/25/2014,31.762,$36417.74,Montana,Hawaii,7414657,68886,36341,76862,87585
+985,Wanda Smith,735 Bay Road,Janice Cruz,63014 Swallow Alley,12/24/2013,81.264,$88917.43,New Jersey,Georgia,264399,97915,94928,21137,8721
+986,John Tucker,1698 Veith Circle,Christine Larson,002 Dwight Terrace,6/21/2014,57.828,$12595.19,Nebraska,California,4531229,93434,35844,80054,96456
+987,Cynthia Rivera,37 Golf View Plaza,Betty Allen,378 Fairview Trail,5/22/2014,67.955,$63269.70,Nevada,Alabama,282805,63159,90323,99445,19585
+988,Albert Alexander,4048 Badeau Drive,Marie Patterson,85 Kensington Parkway,2/13/2014,66.293,$44983.46,New Hampshire,Massachusetts,1981590,85839,59464,49902,19563
+989,Benjamin Chavez,7 Drewry Street,Mary Medina,184 John Wall Way,2/20/2014,24.081,$88839.84,Iowa,Arkansas,3768664,92725,54343,67742,23181
+990,Timothy Moreno,2 Gina Parkway,Bonnie Coleman,0989 Sunbrook Avenue,11/26/2013,91.443,$2823.06,Missouri,Indiana,8923494,47109,81673,19147,17415
+991,Laura Garza,5 Grover Terrace,Martha Harper,20 Petterle Park,6/8/2014,22.392,$70519.00,New Mexico,Oklahoma,8546225,40766,45930,49801,4361
+992,Thomas Nichols,96585 Evergreen Crossing,Louis Woods,0 Jana Court,10/2/2013,34.389,$25423.72,Iowa,Florida,5761391,80112,11560,35217,39109
+993,Howard Green,50 Union Parkway,Jessica Watkins,959 2nd Center,8/11/2014,68.567,$12880.09,Wisconsin,Washington,3108324,20580,98290,35747,40926
+994,Gloria Gonzalez,004 Killdeer Crossing,Donald Sullivan,0839 Rutledge Circle,2/12/2014,33.433,$39398.26,South Carolina,Missouri,6921180,4113,11450,27013,86375
+995,Philip Bowman,6289 Bay Junction,Earl Ross,63625 Kingsford Parkway,3/4/2014,85.049,$85056.63,Idaho,Maine,2190332,81732,32259,82896,45286
+996,Phyllis Frazier,8958 Fordem Terrace,Victor Butler,96 Quincy Junction,12/12/2013,88.943,$9888.96,South Dakota,Tennessee,6060417,97393,90796,94350,60029
+997,Ronald Franklin,04 Melody Alley,Phyllis Ruiz,190 Nelson Street,8/1/2014,73.759,$20157.16,Arizona,Rhode Island,7568436,9446,35945,65431,37309
+998,Philip Reynolds,3130 Oak Circle,Richard Brown,56813 Clemons Alley,5/24/2014,75.321,$79740.60,Massachusetts,Mississippi,5096346,73478,25961,45921,72317
+999,Larry Scott,33802 Center Pass,Louise Little,75770 Tomscot Parkway,3/22/2014,34.943,$92909.44,Connecticut,California,1225102,17533,93113,42933,11630
+1000,Robin James,33 Vidon Trail,Emily Montgomery,9 Village Green Park,12/7/2013,17.615,$16962.46,Oregon,Missouri,6394252,94284,15378,92751,10960
